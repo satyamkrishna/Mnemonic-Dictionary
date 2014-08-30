@@ -1,0 +1,1326 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>    
+      <meta charset="utf-8" />
+      <title>
+                           Mnemonic Dictionary - Fun and easy way to build your vocabulary!
+          
+               </title>
+
+      <meta name="author" content="OpenCubicles" />
+            <meta name='description' content='MnemonicDictionary.com - Fun and easy way to build your vocabulary using Mnemonics, Pictures, Visual, Etymology, Usage, word games' >
+      <meta name='keywords' content='word games, word power, word power made easy, mnemonic, mnemonics, dictionary, gre words, gre dictionary, vocabulary, word list' >
+         
+
+    
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+      <link rel='stylesheet' id='abel_google-fonts-css'  href='http://fonts.googleapis.com/css?family=Abel&#038;ver=3.5.1' type='text/css' media='screen' />
+      <link href="http://www.mnemonicdictionary.com/assets/css/bootstrap.min.css" rel="stylesheet">
+      <link rel="stylesheet" href="http://www.mnemonicdictionary.com/assets/css/font-awesome.min.css">
+      <link href="http://www.mnemonicdictionary.com/assets/css/style.css?time=cc" rel="stylesheet">
+     
+      <!--[if IE 7]>
+      <link rel="stylesheet" href="http://www.mnemonicdictionary.com/assets/css/font-awesome-ie7.min.css">
+      <![endif]-->
+
+ 
+      <style>
+            
+
+         @media (max-width: 980px) {
+            /* Enable use of floated navbar text */
+            .navbar-text.pull-right {
+               float: none;
+               padding-left: 5px;
+               padding-right: 5px;
+            }
+         }
+                   
+         .alert {
+            margin-top: 30px;
+            text-align: center;
+         }
+               </style>
+      <link href="http://www.mnemonicdictionary.com/assets/css/bootstrap-responsive.min.css" rel="stylesheet">
+      <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+      <!--[if lt IE 9]>
+         <script src="http://www.mnemonicdictionary.com/assets/js/html5shiv.js"></script>
+      <![endif]-->
+
+      <!-- Favicons
+      ================================================== -->
+      <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-144-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-72-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-57-precomposed.png">
+      <link rel="shortcut icon" href="http://www.mnemonicdictionary.com/assets/ico/favicon.ico">
+   </head>
+
+  <body class="main-body-class">
+
+  <div class="navbar navbar-inverse navbar-fixed-top" id="main-nav">
+  <a class="brand" href="http://www.mnemonicdictionary.com" style="z-index: 2035;position:absolute;left:15px;"><img width="210px" src="http://www.mnemonicdictionary.com/assets/img/logo2.png" /></a>
+         <div class="navbar-inner" id="main-nav-inner">
+            <div class="container-fluid">
+               <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+               </button>
+               <a class="brand" href="http://www.mnemonicdictionary.com" style="visibility:hidden">Mnemonic Dictionary</a>
+               <div class="nav-collapse collapse">
+                  <ul class="nav pull-right">
+                                          <li ><a href="http://www.mnemonicdictionary.com/account/login">Login</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/account/register">Register</a></li>
+                     
+                  </ul>
+                  <ul class="nav">
+
+                     <li  style="padding-left:20px"><a href="http://www.mnemonicdictionary.com"><i class="icon-home icon-white"></i> Home</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist"><i class="icon-th-list"></i>WordLists</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/about-us"><i class="icon-file icon-white"></i> About us</a></li>
+ <li ><a href="http://www.mnemonicdictionary.com/contactus"><i class="icon-envelope"></i></i> Contact us</a></li>
+
+                  </ul>
+               </div><!--/.nav-collapse -->
+            </div>
+         </div>
+      </div>   
+    
+
+      <!-- Notifications -->
+            <!-- ./ notifications -->
+
+
+     <div class="container-fluid" id="main-content" style="margin:auto;margin-top:25px;">
+         <div class="row-fluid">
+            <!-- Content -->
+             <div class="row-fluid">
+<div class="span12" style="margin-top:35px;">
+  &nbsp;
+</div> 
+</div>
+ <div class="row-fluid">
+<div class="span3">  
+      <div class="box margin-25t bt-5px b-shadow clearfix" > 
+      <div style="border-top-color:#619cd7;" class="colored-border"></div>
+
+      <div class="box-title">
+         <h2>
+            Suggested Wordlists
+         </h2>
+      </div>
+
+      <ul class="box-popular-list"> 
+          
+         <li class="clearfix"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist">GREwordlist</a></li>
+        <li class="clearfix"><a href="http://www.mnemonicdictionary.com/wordlist/WordOfTheDay">WordOfTheDay</a></li>
+   
+      </ul>
+
+   </div>
+      
+   
+        <div class="row-fluid margin-25t" style="text-align:center;" id="gad-left;">
+                  <script type="text/javascript"><!--
+          var width = window.innerWidth 
+        || document.documentElement.clientWidth 
+        || document.body.clientWidth;
+        if (width > 768) {
+google_ad_client = "ca-pub-1982458980722225";
+/* 160x600, created 6/7/08 */
+google_ad_slot = "5280598700";
+google_ad_width = 160;
+google_ad_height = 600;
+}
+else {
+
+}
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+         
+      </div>
+</div>
+<div class="span6">
+
+   <div class="box margin-25t bt-5px b-shadow clearfix" > 
+
+
+      <div class="box-title middle-box-title">
+         <span class="middle-title" style="background-color:#DB6409;">WordList</span>
+      </div>
+      <div id="home-middle-content">
+         <h1 class="middle-title-word"> <h1>GREwordlist</h1></h1>
+           <p>This wordlist is generally used by students preparing for GRE.</p>
+              <div class="pagination">
+		<ul>
+			<li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=7">&laquo;</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=1">1</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=2">2</a></li><li class="disabled"><a href="#">...</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=5">5</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=6">6</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=7">7</a></li><li class="active"><a href="#">8</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=9">9</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=10">10</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=11">11</a></li><li class="disabled"><a href="#">...</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=20">20</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=21">21</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=9">&raquo;</a></li>		</ul>
+	</div>
+              <div class="pagination">
+    <ul>
+                   <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/A">A</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/B">B</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/C">C</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D">D</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/E">E</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/F">F</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/G">G</a></li>
+      <li class="active"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H">H</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I">I</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/J">J</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/K">K</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/L">L</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/M">M</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N">N</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/O">O</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/P">P</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Q">Q</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/R">R</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S">S</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/T">T</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/U">U</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/V">V</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/W">W</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/X">X</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Y">Y</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Z">Z</a></li>
+
+</ul>
+</div>
+   <form method="get">
+              <div class="input-append">
+                 <span class="add-on">Page No.</span>
+  <input style="width:50px;" id="appendedInputButton" type="text" name="page">
+  <button class="btn" type="submit">Go!</button>
+</div></form>
+          
+
+
+   <div class="row-fluid">
+      <h2>hegemony</h2>
+      <p><strong>Short Definition</strong> : dominance especially of one nation over others</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (noun) the dominance or leadership of one social group or nation over others
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  the hegemony of a single member state is not incompatible with a genuine confederation               </li>
+                              <li>
+                  to say they have priority is not to say they have complete hegemony               </li>
+                              <li>
+                  the consolidation of the United States' hegemony over a new international economic system               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for hegemony</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   hegemony:he's got money,so he's domineering in the society and he control others. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               56 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by SANICECUBE
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   hegemony sounds like he-germany. Germany's hegemony over Belgium was the spark of the WWI 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               45 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by town2020
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   hege(to have in punjabi)+ mony(sounds like MONEY)....a nation which has money is powerful and wealthy nations always dominate the poorer nations. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               19 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by preetisoni2411
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   can b taken as "huge money".if someone has huge money they ll naturally dominate others.. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               8 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by astepahead87
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   HUGE+MONEY....countries having huge money always dominate 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               6 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by nileshdive
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Hegemony - 'he' who has 'gem'(gems, jewels)and mony (money) has 'dominance' over others 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by carbonmonoxide
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   h-ege(egg)-mony(money)-if u hav an egg n lots of money in front of you n u r told to choose one...definitely u'll take money...so money dominates the egg... 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by studyabroad.us
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   hegemony - heg (beg) mony (money) ... when a poor country begs for money to a rich country ... the rich country starts dominating w.r.t terms, relations and other issues ,on the poor country ... 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by khushi5
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   hegemony~he+germany(gemony)..the person who came from germany will try to dominate the indians.. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by pramodkalvala
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Some rowdy asking hey ji Money kahan hai?? 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by vivekharin
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   HEGEMONY = he + ge + mony; he is the ge (general electric) money so he dominates other ppls in the company. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by shaktipada
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Age + money - Normally, rich & elderly people will possess leadership and dominance over their group & family  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by ganbab89
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>heinous</h2>
+      <p><strong>Short Definition</strong> : atrocious; wicked; hatefully bad; Ex. heinous crime</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (adj) extremely wicked, deeply criminal
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/flagitious">flagitious</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  a flagitious crime               </li>
+                              <li>
+                  heinous accusations               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for heinous</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   heinous sounds like hyena (a wild animal which are mostly found in asian & african continents) these animals are very cunning & wicked) 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               25 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by rkavvy29
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   heinous -> hey + anus, you call someone that if you hate him or if he's atrocious. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               12 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by deepster89
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Sounds like Highness - as we call a king. Imagine that he is a Wicked king, thinks only money and power and kills people, hence he is hatefully bad, atrocious 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               5 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by varunrocks
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   sounds similar to HEEN in hindi..i.e jo heen bhavna se dusron ko dekhta hai wo wicked hota hai. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Manjeet Kaur
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   he in anus ---> if some gets in ure anus he is definitely hateful 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by friendofafriend
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   calling someone hideous is bad and hateful 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by friendofafriend
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   hei is the black in Chinese,so black means evil. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by falselife
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   person in a bus says  he(the pickpocket) is in(among) ous 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by sansecretcp
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>helm</h2>
+      <p><strong>Short Definition</strong> : steering wheel of a ship; position of control</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (noun) steering mechanism for a vessel; a mechanical device by which a vessel is steered
+         
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (noun) a position of leadership
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  the President is at the helm of the Ship of State               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) be at or take the helm of
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  helm the ship               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for helm</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Better take the 'HELM' in your hands or else this dumbhead is going to make us cry 'HELP HELP!' 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               6 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by avinav
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   helmet---head(protects the head)
+helm-----head(leader) 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               6 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by adityasree
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Helm~help..pls helm dem 2 take d control of d ship as dey r naive2 handle such situation.. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by jaiganesh
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   if you don't helm the ship, you will go to hell. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by sanjeev
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>hem</h2>
+      <p><strong>Short Definition</strong> : surround tightly so that movement is impossible; Ex. hem in; N.</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (noun) the edge of a piece of cloth; especially the finished edge that has been doubled under and stitched down
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  the hem of her dress was stained               </li>
+                              <li>
+                  let down the hem               </li>
+                              <li>
+                  he stitched weights into the curtain's hem               </li>
+                              <li>
+                  it seeped along the hem of his jacket               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (noun) the utterance of a sound similar to clearing the throat; intended to get attention, express hesitancy, fill a pause, hide embarrassment, warn a friend, etc.
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/ahem">ahem</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) fold over and sew together to provide with a hem
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  hem my skirt               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) utter `hem' or `ahem'
+         
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for hem</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Wat if hema malini suddenly appears in our colony? she will be surrounded by her fans restricting her movement 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               17 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by ArDoR
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Sala HAM-burger chura raha tha! HEM him! :D 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               3 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by avinav
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>herald</h2>
+      <p><strong>Short Definition</strong> : messenger; sign of something to come; V: announce; proclaim; Ex. unheralded researcher</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (noun) (formal) a person who announces important news
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/trumpeter">trumpeter</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  the chieftain had a herald who announced his arrival with a trumpet               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (noun) something that precedes and indicates the approach of something or someone
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/forerunner">forerunner</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/harbinger">harbinger</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/precursor">precursor</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/predecessor">predecessor</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) foreshadow or presage
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/announce">announce</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/annunciate">annunciate</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/foretell">foretell</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/harbinger">harbinger</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) praise vociferously
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/acclaim">acclaim</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/hail">hail</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  The critics hailed the young pianist as a new Rubinstein               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) greet enthusiastically or joyfully
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/hail">hail</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for herald</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   it can be split into hear + all but convey message to some. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               8 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by gopikrish2000
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   deccan herald a famous news paper is a messenger for  sth that is going to happen.  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by souravkhanna
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>herbivorous</h2>
+      <p><strong>Short Definition</strong> : grain-eating; CF. herbivore</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (adj) feeding only on plants
+         
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for herbivorous</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   herb (herb) + i + vorous (boars). Imagine a boar eating herbs (plants). 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Pipppi
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+    
+
+<div class="pagination">
+    <ul>
+                 <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/A">A</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/B">B</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/C">C</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D">D</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/E">E</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/F">F</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/G">G</a></li>
+      <li class="active"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H">H</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I">I</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/J">J</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/K">K</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/L">L</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/M">M</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N">N</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/O">O</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/P">P</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Q">Q</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/R">R</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S">S</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/T">T</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/U">U</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/V">V</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/W">W</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/X">X</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Y">Y</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Z">Z</a></li>
+
+</ul>
+</div>
+
+   <div class="pagination">
+		<ul>
+			<li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=7">&laquo;</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=1">1</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=2">2</a></li><li class="disabled"><a href="#">...</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=5">5</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=6">6</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=7">7</a></li><li class="active"><a href="#">8</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=9">9</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=10">10</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=11">11</a></li><li class="disabled"><a href="#">...</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=20">20</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=21">21</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H?page=9">&raquo;</a></li>		</ul>
+	</div>      </div>
+   </div>
+
+</div>
+<div class="span3">
+   <div class="box margin-25t bt-5px b-shadow clearfix" style="text-align:center;"> 
+      <div style="border-top-color:#3B5998;" class="colored-border"></div>
+
+      <div class="box-title">
+         <h2>
+            Love us on FB !
+         </h2>
+      </div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=577208685630704";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+         
+      <div class="facebook-box" style="margin:0 -10px;">
+         <div class="fb-like-box" data-href="https://www.facebook.com/mnemonicdictionary" data-border-color="#fff"  data-show-faces="true"  data-stream="false" data-header="true"></div>
+      </div><!-- facebook-box -->
+   </div>
+   <div class="row-fluid margin-25t" style="text-align:center;">
+                  <script type="text/javascript"><!--
+google_ad_client = "ca-pub-1982458980722225";
+/* 160x600, created 6/7/08 */
+google_ad_slot = "7835460286";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+         
+      </div>
+</div>
+</div>
+
+
+            <!-- ./ content -->
+         </div>
+
+
+ 
+<hr />
+         <!-- Footer -->
+         <footer style="background-color:#4C4C4C">
+            <div style="width:50%;text-align:left;float:left;">© Mnemonic Dictionary 2013</div> <div style="width:40%;float:right;text-align:right;">A product of <a href="http://opencubicles.com">OpenCubicles Technologies Pvt Ltd</a></div>
+         </footer>
+         <!-- ./ footer -->
+
+      </div>
+      <!-- Javascripts
+      ================================================== -->
+      <script src="http://www.mnemonicdictionary.com/assets/js/jquery/jquery-1.9.1.min.js"></script>
+      <script src="http://www.mnemonicdictionary.com/assets/js/bootstrap/bootstrap.min.js"></script>
+      <script type="text/javascript">
+
+         var _gaq = _gaq || [];
+         _gaq.push(['_setAccount', 'UA-4638038-1']);
+         _gaq.push(['_trackPageview']);
+
+         (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+         })();
+
+      </script>
+      <script>
+  $(document).ready(function () {
+   $('#word').focus();
+ 
+  
+});
+  </script>
+   </body>
+</html>

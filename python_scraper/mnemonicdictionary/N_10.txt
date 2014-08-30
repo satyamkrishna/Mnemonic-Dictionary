@@ -1,0 +1,1270 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>    
+      <meta charset="utf-8" />
+      <title>
+                           Mnemonic Dictionary - Fun and easy way to build your vocabulary!
+          
+               </title>
+
+      <meta name="author" content="OpenCubicles" />
+            <meta name='description' content='MnemonicDictionary.com - Fun and easy way to build your vocabulary using Mnemonics, Pictures, Visual, Etymology, Usage, word games' >
+      <meta name='keywords' content='word games, word power, word power made easy, mnemonic, mnemonics, dictionary, gre words, gre dictionary, vocabulary, word list' >
+         
+
+    
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+      <link rel='stylesheet' id='abel_google-fonts-css'  href='http://fonts.googleapis.com/css?family=Abel&#038;ver=3.5.1' type='text/css' media='screen' />
+      <link href="http://www.mnemonicdictionary.com/assets/css/bootstrap.min.css" rel="stylesheet">
+      <link rel="stylesheet" href="http://www.mnemonicdictionary.com/assets/css/font-awesome.min.css">
+      <link href="http://www.mnemonicdictionary.com/assets/css/style.css?time=cc" rel="stylesheet">
+     
+      <!--[if IE 7]>
+      <link rel="stylesheet" href="http://www.mnemonicdictionary.com/assets/css/font-awesome-ie7.min.css">
+      <![endif]-->
+
+ 
+      <style>
+            
+
+         @media (max-width: 980px) {
+            /* Enable use of floated navbar text */
+            .navbar-text.pull-right {
+               float: none;
+               padding-left: 5px;
+               padding-right: 5px;
+            }
+         }
+                   
+         .alert {
+            margin-top: 30px;
+            text-align: center;
+         }
+               </style>
+      <link href="http://www.mnemonicdictionary.com/assets/css/bootstrap-responsive.min.css" rel="stylesheet">
+      <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+      <!--[if lt IE 9]>
+         <script src="http://www.mnemonicdictionary.com/assets/js/html5shiv.js"></script>
+      <![endif]-->
+
+      <!-- Favicons
+      ================================================== -->
+      <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-144-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-72-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-57-precomposed.png">
+      <link rel="shortcut icon" href="http://www.mnemonicdictionary.com/assets/ico/favicon.ico">
+   </head>
+
+  <body class="main-body-class">
+
+  <div class="navbar navbar-inverse navbar-fixed-top" id="main-nav">
+  <a class="brand" href="http://www.mnemonicdictionary.com" style="z-index: 2035;position:absolute;left:15px;"><img width="210px" src="http://www.mnemonicdictionary.com/assets/img/logo2.png" /></a>
+         <div class="navbar-inner" id="main-nav-inner">
+            <div class="container-fluid">
+               <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+               </button>
+               <a class="brand" href="http://www.mnemonicdictionary.com" style="visibility:hidden">Mnemonic Dictionary</a>
+               <div class="nav-collapse collapse">
+                  <ul class="nav pull-right">
+                                          <li ><a href="http://www.mnemonicdictionary.com/account/login">Login</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/account/register">Register</a></li>
+                     
+                  </ul>
+                  <ul class="nav">
+
+                     <li  style="padding-left:20px"><a href="http://www.mnemonicdictionary.com"><i class="icon-home icon-white"></i> Home</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist"><i class="icon-th-list"></i>WordLists</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/about-us"><i class="icon-file icon-white"></i> About us</a></li>
+ <li ><a href="http://www.mnemonicdictionary.com/contactus"><i class="icon-envelope"></i></i> Contact us</a></li>
+
+                  </ul>
+               </div><!--/.nav-collapse -->
+            </div>
+         </div>
+      </div>   
+    
+
+      <!-- Notifications -->
+            <!-- ./ notifications -->
+
+
+     <div class="container-fluid" id="main-content" style="margin:auto;margin-top:25px;">
+         <div class="row-fluid">
+            <!-- Content -->
+             <div class="row-fluid">
+<div class="span12" style="margin-top:35px;">
+  &nbsp;
+</div> 
+</div>
+ <div class="row-fluid">
+<div class="span3">  
+      <div class="box margin-25t bt-5px b-shadow clearfix" > 
+      <div style="border-top-color:#619cd7;" class="colored-border"></div>
+
+      <div class="box-title">
+         <h2>
+            Suggested Wordlists
+         </h2>
+      </div>
+
+      <ul class="box-popular-list"> 
+          
+         <li class="clearfix"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist">GREwordlist</a></li>
+        <li class="clearfix"><a href="http://www.mnemonicdictionary.com/wordlist/WordOfTheDay">WordOfTheDay</a></li>
+   
+      </ul>
+
+   </div>
+      
+   
+        <div class="row-fluid margin-25t" style="text-align:center;" id="gad-left;">
+                  <script type="text/javascript"><!--
+          var width = window.innerWidth 
+        || document.documentElement.clientWidth 
+        || document.body.clientWidth;
+        if (width > 768) {
+google_ad_client = "ca-pub-1982458980722225";
+/* 160x600, created 6/7/08 */
+google_ad_slot = "5280598700";
+google_ad_width = 160;
+google_ad_height = 600;
+}
+else {
+
+}
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+         
+      </div>
+</div>
+<div class="span6">
+
+   <div class="box margin-25t bt-5px b-shadow clearfix" > 
+
+
+      <div class="box-title middle-box-title">
+         <span class="middle-title" style="background-color:#DB6409;">WordList</span>
+      </div>
+      <div id="home-middle-content">
+         <h1 class="middle-title-word"> <h1>GREwordlist</h1></h1>
+           <p>This wordlist is generally used by students preparing for GRE.</p>
+              <div class="pagination">
+		<ul>
+			<li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=9">&laquo;</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=1">1</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=2">2</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=3">3</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=4">4</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=5">5</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=6">6</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=7">7</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=8">8</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=9">9</a></li><li class="active"><a href="#">10</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=11">11</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=12">12</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=11">&raquo;</a></li>		</ul>
+	</div>
+              <div class="pagination">
+    <ul>
+                   <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/A">A</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/B">B</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/C">C</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D">D</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/E">E</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/F">F</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/G">G</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H">H</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I">I</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/J">J</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/K">K</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/L">L</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/M">M</a></li>
+      <li class="active"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N">N</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/O">O</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/P">P</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Q">Q</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/R">R</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S">S</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/T">T</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/U">U</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/V">V</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/W">W</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/X">X</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Y">Y</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Z">Z</a></li>
+
+</ul>
+</div>
+   <form method="get">
+              <div class="input-append">
+                 <span class="add-on">Page No.</span>
+  <input style="width:50px;" id="appendedInputButton" type="text" name="page">
+  <button class="btn" type="submit">Go!</button>
+</div></form>
+          
+
+
+   <div class="row-fluid">
+      <h2>nova</h2>
+      <p><strong>Short Definition</strong> : star that suddenly becomes much brighter and then returns to its original brightness</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (noun) a star that ejects some of its material in the form of a cloud and become more luminous in the process
+         
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for nova</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   casanova 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by 1.6k
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   read nova that will make u star of high brightness(knowledge) and after somedays u cm back to ur original brightness 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by crazylooks
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   super nova is a star.
+ 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by aparajita
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   in nova is like a star suddenly looks bright 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by sansecretcp
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>novelty</h2>
+      <p><strong>Short Definition</strong> : something new; newness; ADJ. novel: new; original</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (noun) originality by virtue of being refreshingly novel
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/freshness">freshness</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (noun) originality by virtue of being new and surprising
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/freshness">freshness</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (noun) a small inexpensive mass-produced article
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/knickknack">knickknack</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (noun) cheap showy jewelry or ornament on clothing
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/bangle">bangle</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/bauble">bauble</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/fallal">fallal</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/gaud">gaud</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/gewgaw">gewgaw</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/trinket">trinket</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for novelty</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   after making out a century in ipl frm punjab team...from then onwards we had seen "something new" or "NEWNESS" in the player "paul VALTHATY"  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by yeshwanth_reddy
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   politician is no+velty(wealty) it is a news and newness 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by sansecretcp
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   call a NOBEL prize winner to home and serve him TEA...NOBELTEA 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by ishandave
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>novice</h2>
+      <p><strong>Short Definition</strong> : beginner</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (noun) someone who has entered a religious order but has not taken final vows
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/novitiate">novitiate</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (noun) someone new to a field or activity
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/beginner">beginner</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/initiate">initiate</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/tiro">tiro</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/tyro">tyro</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for novice</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   NO WISE 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               14 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by findktk
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   'novice' can be related as 'novoice' and a beginners never utter a word in group discussion from their mouth 
+ 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               12 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by nishit.mehta
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   novice sounds like nova which can be spelled later naya and naya means beginner  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by khatter
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>noxious</h2>
+      <p><strong>Short Definition</strong> : harmful; CF. obnoxious</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (adj) injurious to physical or mental health
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  noxious chemical wastes               </li>
+                              <li>
+                  noxious ideas               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for noxious</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   NOXIOUS=TOXIOUS.........harmful 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               31 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by dhaknejyoti
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Oxides of nitrogen are all toxic and are represented by NOx (Sulfur oxides by SOx)so NOx -IOUS...means harmful...also something NOXIOUS can make you NAUSEOUS 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               10 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by shanto6888
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Noxious [Naxalites - bihar ke harmul, injurious terrorist] (Naxalites are Harmful terrorist of Bihar, India) 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               5 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by kinshuk
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   this word is derived from latin NOX/nex/nec..means.harm/death/violance.......so something noxious is HARMFUL. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               3 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by preetisoni2411
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   n(no)oxious(think as oxigen)thus no oxigen-that is very harmful.......... 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by nusrat abedin
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   It is not toxic, it is NOT TOXIC 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Jackery
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   you got promoted from abnoxious to NOXIOUS after you pushed him over the cliff. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by maha4
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>nuance</h2>
+      <p><strong>Short Definition</strong> : shade of slight difference in meaning or color; subtle distinction</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (noun) a subtle difference in meaning or opinion or attitude
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/nicety">nicety</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/refinement">refinement</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/shade">shade</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/subtlety">subtlety</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  without understanding the finer nuances you can't enjoy the humor               </li>
+                              <li>
+                  don't argue about shades of meaning               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for nuance</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   nuance = new + ounce.. and ounce is a very small unit for weight.. hence a very small difference.. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               60 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by muffisoni
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Once checking the company with no special nuance after a disaster, the manager proceeds a business conti-nuance plan  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by kguide
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   nuance=new+anci c(book).....no much difference between old and new editions... 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by ajaypasagada@gmail.com
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   sounds like nuisance. Nuisance is something spoken unrelated to the subject. nuance is much more subtle, it is spoken relevant to the subject but with little  difference. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by itgulpp
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Nuance = Nu + an + ce;A New an ceo is little diffent from  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by shaktipada
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>nubile</h2>
+      <p><strong>Short Definition</strong> : marriageable; of marriageable age; CF. connubial</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (adj) of girls or women who are eligible to marry
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/marriageable">marriageable</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for nubile</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   NUBILE reminds me of NEW BRIDE....NUBILE means marriageable 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               22 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by shanto6888
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   can sound like NABALIK (below 18 years age) so unmarried 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               20 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by userdce
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Sounds like NEW BALIKA (hindi) - just turned 18 and hence reached a marrigeable age. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               9 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by pushpa_edit
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   nubile sounds like nubra = can be related to woman who are young and attractive who wear nu(new)+bra 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               3 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by xiaohua23
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   nuptial means pertaining to marriage. nubile "marriageable". 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by garrulous
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   shiny ahuja kept a NEW BAI for doing ghar ka kam....what he didnt realize was that she was too NUBILE and hence shiny couldnt controll and hence he is now in JAIL....!!!!!!!!!!! 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by verbal800
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   nubile - mobile - person who is in the age of marriage mobile because of known reason 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Tural
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   NUBILE -> MOBILE. Marriageable women imagine their wedding day with a sign on the back of their autoMOBILE that reads, "Just Married". 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by dshefman
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+    
+
+<div class="pagination">
+    <ul>
+                 <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/A">A</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/B">B</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/C">C</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D">D</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/E">E</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/F">F</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/G">G</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H">H</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I">I</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/J">J</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/K">K</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/L">L</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/M">M</a></li>
+      <li class="active"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N">N</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/O">O</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/P">P</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Q">Q</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/R">R</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S">S</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/T">T</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/U">U</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/V">V</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/W">W</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/X">X</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Y">Y</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Z">Z</a></li>
+
+</ul>
+</div>
+
+   <div class="pagination">
+		<ul>
+			<li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=9">&laquo;</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=1">1</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=2">2</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=3">3</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=4">4</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=5">5</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=6">6</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=7">7</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=8">8</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=9">9</a></li><li class="active"><a href="#">10</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=11">11</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=12">12</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N?page=11">&raquo;</a></li>		</ul>
+	</div>      </div>
+   </div>
+
+</div>
+<div class="span3">
+   <div class="box margin-25t bt-5px b-shadow clearfix" style="text-align:center;"> 
+      <div style="border-top-color:#3B5998;" class="colored-border"></div>
+
+      <div class="box-title">
+         <h2>
+            Love us on FB !
+         </h2>
+      </div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=577208685630704";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+         
+      <div class="facebook-box" style="margin:0 -10px;">
+         <div class="fb-like-box" data-href="https://www.facebook.com/mnemonicdictionary" data-border-color="#fff"  data-show-faces="true"  data-stream="false" data-header="true"></div>
+      </div><!-- facebook-box -->
+   </div>
+   <div class="row-fluid margin-25t" style="text-align:center;">
+                  <script type="text/javascript"><!--
+google_ad_client = "ca-pub-1982458980722225";
+/* 160x600, created 6/7/08 */
+google_ad_slot = "7835460286";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+         
+      </div>
+</div>
+</div>
+
+
+            <!-- ./ content -->
+         </div>
+
+
+ 
+<hr />
+         <!-- Footer -->
+         <footer style="background-color:#4C4C4C">
+            <div style="width:50%;text-align:left;float:left;">© Mnemonic Dictionary 2013</div> <div style="width:40%;float:right;text-align:right;">A product of <a href="http://opencubicles.com">OpenCubicles Technologies Pvt Ltd</a></div>
+         </footer>
+         <!-- ./ footer -->
+
+      </div>
+      <!-- Javascripts
+      ================================================== -->
+      <script src="http://www.mnemonicdictionary.com/assets/js/jquery/jquery-1.9.1.min.js"></script>
+      <script src="http://www.mnemonicdictionary.com/assets/js/bootstrap/bootstrap.min.js"></script>
+      <script type="text/javascript">
+
+         var _gaq = _gaq || [];
+         _gaq.push(['_setAccount', 'UA-4638038-1']);
+         _gaq.push(['_trackPageview']);
+
+         (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+         })();
+
+      </script>
+      <script>
+  $(document).ready(function () {
+   $('#word').focus();
+ 
+  
+});
+  </script>
+   </body>
+</html>

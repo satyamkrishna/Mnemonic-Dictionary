@@ -1,0 +1,1249 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>    
+      <meta charset="utf-8" />
+      <title>
+                           Mnemonic Dictionary - Fun and easy way to build your vocabulary!
+          
+               </title>
+
+      <meta name="author" content="OpenCubicles" />
+            <meta name='description' content='MnemonicDictionary.com - Fun and easy way to build your vocabulary using Mnemonics, Pictures, Visual, Etymology, Usage, word games' >
+      <meta name='keywords' content='word games, word power, word power made easy, mnemonic, mnemonics, dictionary, gre words, gre dictionary, vocabulary, word list' >
+         
+
+    
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+      <link rel='stylesheet' id='abel_google-fonts-css'  href='http://fonts.googleapis.com/css?family=Abel&#038;ver=3.5.1' type='text/css' media='screen' />
+      <link href="http://www.mnemonicdictionary.com/assets/css/bootstrap.min.css" rel="stylesheet">
+      <link rel="stylesheet" href="http://www.mnemonicdictionary.com/assets/css/font-awesome.min.css">
+      <link href="http://www.mnemonicdictionary.com/assets/css/style.css?time=cc" rel="stylesheet">
+     
+      <!--[if IE 7]>
+      <link rel="stylesheet" href="http://www.mnemonicdictionary.com/assets/css/font-awesome-ie7.min.css">
+      <![endif]-->
+
+ 
+      <style>
+            
+
+         @media (max-width: 980px) {
+            /* Enable use of floated navbar text */
+            .navbar-text.pull-right {
+               float: none;
+               padding-left: 5px;
+               padding-right: 5px;
+            }
+         }
+                   
+         .alert {
+            margin-top: 30px;
+            text-align: center;
+         }
+               </style>
+      <link href="http://www.mnemonicdictionary.com/assets/css/bootstrap-responsive.min.css" rel="stylesheet">
+      <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+      <!--[if lt IE 9]>
+         <script src="http://www.mnemonicdictionary.com/assets/js/html5shiv.js"></script>
+      <![endif]-->
+
+      <!-- Favicons
+      ================================================== -->
+      <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-144-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-72-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-57-precomposed.png">
+      <link rel="shortcut icon" href="http://www.mnemonicdictionary.com/assets/ico/favicon.ico">
+   </head>
+
+  <body class="main-body-class">
+
+  <div class="navbar navbar-inverse navbar-fixed-top" id="main-nav">
+  <a class="brand" href="http://www.mnemonicdictionary.com" style="z-index: 2035;position:absolute;left:15px;"><img width="210px" src="http://www.mnemonicdictionary.com/assets/img/logo2.png" /></a>
+         <div class="navbar-inner" id="main-nav-inner">
+            <div class="container-fluid">
+               <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+               </button>
+               <a class="brand" href="http://www.mnemonicdictionary.com" style="visibility:hidden">Mnemonic Dictionary</a>
+               <div class="nav-collapse collapse">
+                  <ul class="nav pull-right">
+                                          <li ><a href="http://www.mnemonicdictionary.com/account/login">Login</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/account/register">Register</a></li>
+                     
+                  </ul>
+                  <ul class="nav">
+
+                     <li  style="padding-left:20px"><a href="http://www.mnemonicdictionary.com"><i class="icon-home icon-white"></i> Home</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist"><i class="icon-th-list"></i>WordLists</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/about-us"><i class="icon-file icon-white"></i> About us</a></li>
+ <li ><a href="http://www.mnemonicdictionary.com/contactus"><i class="icon-envelope"></i></i> Contact us</a></li>
+
+                  </ul>
+               </div><!--/.nav-collapse -->
+            </div>
+         </div>
+      </div>   
+    
+
+      <!-- Notifications -->
+            <!-- ./ notifications -->
+
+
+     <div class="container-fluid" id="main-content" style="margin:auto;margin-top:25px;">
+         <div class="row-fluid">
+            <!-- Content -->
+             <div class="row-fluid">
+<div class="span12" style="margin-top:35px;">
+  &nbsp;
+</div> 
+</div>
+ <div class="row-fluid">
+<div class="span3">  
+      <div class="box margin-25t bt-5px b-shadow clearfix" > 
+      <div style="border-top-color:#619cd7;" class="colored-border"></div>
+
+      <div class="box-title">
+         <h2>
+            Suggested Wordlists
+         </h2>
+      </div>
+
+      <ul class="box-popular-list"> 
+          
+         <li class="clearfix"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist">GREwordlist</a></li>
+        <li class="clearfix"><a href="http://www.mnemonicdictionary.com/wordlist/WordOfTheDay">WordOfTheDay</a></li>
+   
+      </ul>
+
+   </div>
+      
+   
+        <div class="row-fluid margin-25t" style="text-align:center;" id="gad-left;">
+                  <script type="text/javascript"><!--
+          var width = window.innerWidth 
+        || document.documentElement.clientWidth 
+        || document.body.clientWidth;
+        if (width > 768) {
+google_ad_client = "ca-pub-1982458980722225";
+/* 160x600, created 6/7/08 */
+google_ad_slot = "5280598700";
+google_ad_width = 160;
+google_ad_height = 600;
+}
+else {
+
+}
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+         
+      </div>
+</div>
+<div class="span6">
+
+   <div class="box margin-25t bt-5px b-shadow clearfix" > 
+
+
+      <div class="box-title middle-box-title">
+         <span class="middle-title" style="background-color:#DB6409;">WordList</span>
+      </div>
+      <div id="home-middle-content">
+         <h1 class="middle-title-word"> <h1>GREwordlist</h1></h1>
+           <p>This wordlist is generally used by students preparing for GRE.</p>
+              <div class="pagination">
+		<ul>
+			<li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=5">&laquo;</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=1">1</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=2">2</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=3">3</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=4">4</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=5">5</a></li><li class="active"><a href="#">6</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=7">7</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=8">8</a></li><li class="disabled"><a href="#">...</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=53">53</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=54">54</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=7">&raquo;</a></li>		</ul>
+	</div>
+              <div class="pagination">
+    <ul>
+                   <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/A">A</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/B">B</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/C">C</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D">D</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/E">E</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/F">F</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/G">G</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H">H</a></li>
+      <li class="active"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I">I</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/J">J</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/K">K</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/L">L</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/M">M</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N">N</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/O">O</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/P">P</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Q">Q</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/R">R</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S">S</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/T">T</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/U">U</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/V">V</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/W">W</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/X">X</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Y">Y</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Z">Z</a></li>
+
+</ul>
+</div>
+   <form method="get">
+              <div class="input-append">
+                 <span class="add-on">Page No.</span>
+  <input style="width:50px;" id="appendedInputButton" type="text" name="page">
+  <button class="btn" type="submit">Go!</button>
+</div></form>
+          
+
+
+   <div class="row-fluid">
+      <h2>impair</h2>
+      <p><strong>Short Definition</strong> : injure; hurt; damage</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (verb) make worse or less effective
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  His vision was impaired               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) make imperfect
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/deflower">deflower</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/mar">mar</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/spoil">spoil</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/vitiate">vitiate</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  nothing marred her beauty               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for impair</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Opposite of Repair.Repair is to mend, Impair is to Injure.. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               37 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Assiduous
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   im+pair. If you damage a pair of something..you seperate them...so you injure them... 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               8 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by preetisoni2411
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   impair=i+m+pair.....when my gf said to me that "i am paired(i m pair) with some on else for the dance competition"...it HURT/INJURED my feelings a lot...................:) 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by verbal800
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Im+Pair. If you wear incorrect pair of shoes you may hurt yourself while walking. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by shadip
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>impale</h2>
+      <p><strong>Short Definition</strong> : pierce (with a sharp point); Ex. impaled by the spear</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (verb) pierce with a sharp stake or point
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/empale">empale</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/spike">spike</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/transfix">transfix</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  impale a shrimp on a skewer               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) kill by piercing with a spear or sharp pole
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/stake">stake</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  the enemies were impaled and left to die               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for impale</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Impale- Im+Pale. If someone is pierced with something he will be pale due to excessive bleeding. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               45 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by yokel
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Chaku Pale Diya...Chaku Pierce Kar Diya... 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               8 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by mohitunlimited
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   tribes of imphal pierce their body too much 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by shivesh
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   I+M+PALE.. I can PIERCE through any big Crowd.  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Torpedox
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   impale ~ im (I am) + pale (pole) : I am going to impale him using a sharp pole.  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by editor1
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   impale=i+m+pale.....Ceasear cried::"I am already pale with fever...please dont assasin me...!!!",...still the traitors assasined him with spears and daggers.....synonyms:pierce, stick, run through, spike, lance, spear, skewer, spit, transfix 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by verbal800
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   IMPALE == I Am a POLE and I Am used for PALE(Hindi tearing)ing 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by ilarum
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>impalpable</h2>
+      <p><strong>Short Definition</strong> : imperceptible(not easily understood); intangible; OP. palpable: tangible; easily perceptible</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (adj) incapable of being perceived by the senses especially the sense of touch
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/intangible">intangible</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  the intangible constituent of energy               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (adj) imperceptible to the senses or the mind
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  an impalpable cloud               </li>
+                              <li>
+                  impalpable shadows               </li>
+                              <li>
+                  impalpable distinctions               </li>
+                              <li>
+                  as impalpable as a dream               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (adj) not perceptible to the touch
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  an impalpable pulse               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for impalpable</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   impalpable->impale+able.. as per science,when u are impaled,then u really cant feel pain.(this is a fact :) ) 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               8 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by hidus
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   if you throw pebble on your pal then you cannot touch him again 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               4 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by ramya1987
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   im-PAL-pable a PAL(very short period of time) cannot be perceived by us.  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               3 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Vasant_Kabra
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   IM(negative)+PAL+PEBBLE.. My PAL is "insensitive to the touch" of smooth PEBBLE.  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               3 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Torpedox
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   im(not) pal(friend) able... its difficult to be friends with someone who is imperceptible or not understandable... 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by NikhilAgl
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Read as Im-Pulp-Able. Remember in Pulp fiction movie Pulp is shapeless mass, so Pulp = undefined = intangible = not concrete = cant be felt physically = imperceptible. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by fanatic
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Impalpable == IM+PAL+p+ABLE == (PAL and NTSC are 2 major DVD Player formats). So ImPALable is a DVD player for which PAL is DIFFICULT TO UNDERSTAND 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by ilarum
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   palpable means one who can easily be changed so impalpable is the opposite of it 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by berkeley
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>impart</h2>
+      <p><strong>Short Definition</strong> : grant a share of; make known; Ex. news to impart</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (verb) transmit (knowledge or skills)
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/give">give</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/leave">leave</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/pass on">pass on</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  give a secret to the Russians               </li>
+                              <li>
+                  leave your name and address here               </li>
+                              <li>
+                  impart a new skill to the students               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) bestow a quality on
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/add">add</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/bestow">bestow</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/bring">bring</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/contribute">contribute</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/lend">lend</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  Her presence lends a certain cachet to the company               </li>
+                              <li>
+                  The music added a lot to the play               </li>
+                              <li>
+                  She brings a special atmosphere to our meetings               </li>
+                              <li>
+                  This adds a light note to the program               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) transmit or serve as the medium for transmission
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/carry">carry</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/channel">channel</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/conduct">conduct</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/convey">convey</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/transmit">transmit</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  Sound carries well over water               </li>
+                              <li>
+                  The airwaves carry the sound               </li>
+                              <li>
+                  Many metals conduct heat               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for impart</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   it is opposite of apart. so impart means giving a share  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by berkeley
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>impartial</h2>
+      <p><strong>Short Definition</strong> : not biased; fair; N. impartiality</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (adj) showing lack of favoritism
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  the cold neutrality of an impartial judge               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (adj) free from undue bias or preconceived opinions
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/unprejudiced">unprejudiced</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  an unprejudiced appraisal of the pros and cons               </li>
+                              <li>
+                  the impartial eye of a scientist               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for impartial</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   There are two PARTS.  You don't favor either PART.  You are imPARTIAL. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               4 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Jackery
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>impassable</h2>
+      <p><strong>Short Definition</strong> : not able to be traveled or crossed</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (adj) incapable of being passed
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/unpassable">unpassable</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for impassable</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   im(a -ve prefix,not)+passable, meaning that which cannot be passed by or crossed. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               6 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by imajeeth
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+    
+
+<div class="pagination">
+    <ul>
+                 <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/A">A</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/B">B</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/C">C</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D">D</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/E">E</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/F">F</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/G">G</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H">H</a></li>
+      <li class="active"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I">I</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/J">J</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/K">K</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/L">L</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/M">M</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N">N</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/O">O</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/P">P</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Q">Q</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/R">R</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S">S</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/T">T</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/U">U</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/V">V</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/W">W</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/X">X</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Y">Y</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Z">Z</a></li>
+
+</ul>
+</div>
+
+   <div class="pagination">
+		<ul>
+			<li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=5">&laquo;</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=1">1</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=2">2</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=3">3</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=4">4</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=5">5</a></li><li class="active"><a href="#">6</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=7">7</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=8">8</a></li><li class="disabled"><a href="#">...</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=53">53</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=54">54</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I?page=7">&raquo;</a></li>		</ul>
+	</div>      </div>
+   </div>
+
+</div>
+<div class="span3">
+   <div class="box margin-25t bt-5px b-shadow clearfix" style="text-align:center;"> 
+      <div style="border-top-color:#3B5998;" class="colored-border"></div>
+
+      <div class="box-title">
+         <h2>
+            Love us on FB !
+         </h2>
+      </div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=577208685630704";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+         
+      <div class="facebook-box" style="margin:0 -10px;">
+         <div class="fb-like-box" data-href="https://www.facebook.com/mnemonicdictionary" data-border-color="#fff"  data-show-faces="true"  data-stream="false" data-header="true"></div>
+      </div><!-- facebook-box -->
+   </div>
+   <div class="row-fluid margin-25t" style="text-align:center;">
+                  <script type="text/javascript"><!--
+google_ad_client = "ca-pub-1982458980722225";
+/* 160x600, created 6/7/08 */
+google_ad_slot = "7835460286";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+         
+      </div>
+</div>
+</div>
+
+
+            <!-- ./ content -->
+         </div>
+
+
+ 
+<hr />
+         <!-- Footer -->
+         <footer style="background-color:#4C4C4C">
+            <div style="width:50%;text-align:left;float:left;">© Mnemonic Dictionary 2013</div> <div style="width:40%;float:right;text-align:right;">A product of <a href="http://opencubicles.com">OpenCubicles Technologies Pvt Ltd</a></div>
+         </footer>
+         <!-- ./ footer -->
+
+      </div>
+      <!-- Javascripts
+      ================================================== -->
+      <script src="http://www.mnemonicdictionary.com/assets/js/jquery/jquery-1.9.1.min.js"></script>
+      <script src="http://www.mnemonicdictionary.com/assets/js/bootstrap/bootstrap.min.js"></script>
+      <script type="text/javascript">
+
+         var _gaq = _gaq || [];
+         _gaq.push(['_setAccount', 'UA-4638038-1']);
+         _gaq.push(['_trackPageview']);
+
+         (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+         })();
+
+      </script>
+      <script>
+  $(document).ready(function () {
+   $('#word').focus();
+ 
+  
+});
+  </script>
+   </body>
+</html>

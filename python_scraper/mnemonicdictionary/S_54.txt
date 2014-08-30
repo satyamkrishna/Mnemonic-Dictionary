@@ -1,0 +1,1516 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>    
+      <meta charset="utf-8" />
+      <title>
+                           Mnemonic Dictionary - Fun and easy way to build your vocabulary!
+          
+               </title>
+
+      <meta name="author" content="OpenCubicles" />
+            <meta name='description' content='MnemonicDictionary.com - Fun and easy way to build your vocabulary using Mnemonics, Pictures, Visual, Etymology, Usage, word games' >
+      <meta name='keywords' content='word games, word power, word power made easy, mnemonic, mnemonics, dictionary, gre words, gre dictionary, vocabulary, word list' >
+         
+
+    
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+      <link rel='stylesheet' id='abel_google-fonts-css'  href='http://fonts.googleapis.com/css?family=Abel&#038;ver=3.5.1' type='text/css' media='screen' />
+      <link href="http://www.mnemonicdictionary.com/assets/css/bootstrap.min.css" rel="stylesheet">
+      <link rel="stylesheet" href="http://www.mnemonicdictionary.com/assets/css/font-awesome.min.css">
+      <link href="http://www.mnemonicdictionary.com/assets/css/style.css?time=cc" rel="stylesheet">
+     
+      <!--[if IE 7]>
+      <link rel="stylesheet" href="http://www.mnemonicdictionary.com/assets/css/font-awesome-ie7.min.css">
+      <![endif]-->
+
+ 
+      <style>
+            
+
+         @media (max-width: 980px) {
+            /* Enable use of floated navbar text */
+            .navbar-text.pull-right {
+               float: none;
+               padding-left: 5px;
+               padding-right: 5px;
+            }
+         }
+                   
+         .alert {
+            margin-top: 30px;
+            text-align: center;
+         }
+               </style>
+      <link href="http://www.mnemonicdictionary.com/assets/css/bootstrap-responsive.min.css" rel="stylesheet">
+      <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+      <!--[if lt IE 9]>
+         <script src="http://www.mnemonicdictionary.com/assets/js/html5shiv.js"></script>
+      <![endif]-->
+
+      <!-- Favicons
+      ================================================== -->
+      <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-144-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-72-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-57-precomposed.png">
+      <link rel="shortcut icon" href="http://www.mnemonicdictionary.com/assets/ico/favicon.ico">
+   </head>
+
+  <body class="main-body-class">
+
+  <div class="navbar navbar-inverse navbar-fixed-top" id="main-nav">
+  <a class="brand" href="http://www.mnemonicdictionary.com" style="z-index: 2035;position:absolute;left:15px;"><img width="210px" src="http://www.mnemonicdictionary.com/assets/img/logo2.png" /></a>
+         <div class="navbar-inner" id="main-nav-inner">
+            <div class="container-fluid">
+               <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+               </button>
+               <a class="brand" href="http://www.mnemonicdictionary.com" style="visibility:hidden">Mnemonic Dictionary</a>
+               <div class="nav-collapse collapse">
+                  <ul class="nav pull-right">
+                                          <li ><a href="http://www.mnemonicdictionary.com/account/login">Login</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/account/register">Register</a></li>
+                     
+                  </ul>
+                  <ul class="nav">
+
+                     <li  style="padding-left:20px"><a href="http://www.mnemonicdictionary.com"><i class="icon-home icon-white"></i> Home</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist"><i class="icon-th-list"></i>WordLists</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/about-us"><i class="icon-file icon-white"></i> About us</a></li>
+ <li ><a href="http://www.mnemonicdictionary.com/contactus"><i class="icon-envelope"></i></i> Contact us</a></li>
+
+                  </ul>
+               </div><!--/.nav-collapse -->
+            </div>
+         </div>
+      </div>   
+    
+
+      <!-- Notifications -->
+            <!-- ./ notifications -->
+
+
+     <div class="container-fluid" id="main-content" style="margin:auto;margin-top:25px;">
+         <div class="row-fluid">
+            <!-- Content -->
+             <div class="row-fluid">
+<div class="span12" style="margin-top:35px;">
+  &nbsp;
+</div> 
+</div>
+ <div class="row-fluid">
+<div class="span3">  
+      <div class="box margin-25t bt-5px b-shadow clearfix" > 
+      <div style="border-top-color:#619cd7;" class="colored-border"></div>
+
+      <div class="box-title">
+         <h2>
+            Suggested Wordlists
+         </h2>
+      </div>
+
+      <ul class="box-popular-list"> 
+          
+         <li class="clearfix"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist">GREwordlist</a></li>
+        <li class="clearfix"><a href="http://www.mnemonicdictionary.com/wordlist/WordOfTheDay">WordOfTheDay</a></li>
+   
+      </ul>
+
+   </div>
+      
+   
+        <div class="row-fluid margin-25t" style="text-align:center;" id="gad-left;">
+                  <script type="text/javascript"><!--
+          var width = window.innerWidth 
+        || document.documentElement.clientWidth 
+        || document.body.clientWidth;
+        if (width > 768) {
+google_ad_client = "ca-pub-1982458980722225";
+/* 160x600, created 6/7/08 */
+google_ad_slot = "5280598700";
+google_ad_width = 160;
+google_ad_height = 600;
+}
+else {
+
+}
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+         
+      </div>
+</div>
+<div class="span6">
+
+   <div class="box margin-25t bt-5px b-shadow clearfix" > 
+
+
+      <div class="box-title middle-box-title">
+         <span class="middle-title" style="background-color:#DB6409;">WordList</span>
+      </div>
+      <div id="home-middle-content">
+         <h1 class="middle-title-word"> <h1>GREwordlist</h1></h1>
+           <p>This wordlist is generally used by students preparing for GRE.</p>
+              <div class="pagination">
+		<ul>
+			<li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=53">&laquo;</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=1">1</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=2">2</a></li><li class="disabled"><a href="#">...</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=51">51</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=52">52</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=53">53</a></li><li class="active"><a href="#">54</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=55">55</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=56">56</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=57">57</a></li><li class="disabled"><a href="#">...</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=74">74</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=75">75</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=55">&raquo;</a></li>		</ul>
+	</div>
+              <div class="pagination">
+    <ul>
+                   <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/A">A</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/B">B</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/C">C</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D">D</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/E">E</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/F">F</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/G">G</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H">H</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I">I</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/J">J</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/K">K</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/L">L</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/M">M</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N">N</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/O">O</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/P">P</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Q">Q</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/R">R</a></li>
+      <li class="active"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S">S</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/T">T</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/U">U</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/V">V</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/W">W</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/X">X</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Y">Y</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Z">Z</a></li>
+
+</ul>
+</div>
+   <form method="get">
+              <div class="input-append">
+                 <span class="add-on">Page No.</span>
+  <input style="width:50px;" id="appendedInputButton" type="text" name="page">
+  <button class="btn" type="submit">Go!</button>
+</div></form>
+          
+
+
+   <div class="row-fluid">
+      <h2>stilted</h2>
+      <p><strong>Short Definition</strong> : bombastic; stiffly pompous; Ex. stilted rhetoric; CF. stiff: formal</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (adj) artificially formal
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/artificial">artificial</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/contrived">contrived</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/hokey">hokey</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  that artificial humility that her husband hated               </li>
+                              <li>
+                  contrived coyness               </li>
+                              <li>
+                  a stilted letter of acknowledgment               </li>
+                              <li>
+                  when people try to correct their speech they develop a stilted pronunciation               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for stilted</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   The woman wore STILletos to the formal party to artificially increase her height. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               14 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by kfredie
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Stilt refer to either of those long, slender poles (artificial legs) used to raise or elevate oneself above ground. so stilted concversations are artificial and pretentiosly formal ones.  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               11 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by nikunjjethi
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   stilted - style + tilted - its not a real style but a tilted or contrived one 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               8 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by shalnew
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Stilts are rods on which jokers walk to appear taller.Imagine how such a person would be.He would be stiff as he cant afford falling. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               5 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by winder
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   stilted sounds like steal Ted, so when someone steals your Ted (Teddy bear), you give a stilted shout. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               4 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by lollipop
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   when you are stilted you are still and tilted 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               3 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;31  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by nikunjjethi
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Stilted~Chill+ted;suppose that TED(a common name) is a normal guy but he wants to appear cool(derive from chill), modern,like dude etc...so his manner would be bombastic (affected) and pompous...full dikhava,ostentatiousness ! 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               3 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by khushi5
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   if u r titled, you ae obviously uneasy 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by friendofafriend
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   imagine a drunk man when he is bombastic he musta be tilted. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by nasri
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Chill-->TED-->Cool-->derived from chill-->affected--> pompous--> and Finally Pretentious? Ostentatious? GOsh!!  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Torpedox
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   In stiletto 'stil' refers to artificial elevation so stilt means artificial elevation in voice. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by poojita
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   tilted >>> a tilted pose is not actually a natural pose, its actually an ARTIFICIAL pose taken for some photograph or something.. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by RajeshBorkar
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>stink</h2>
+      <p><strong>Short Definition</strong> : stench; V: emit a strong foul odor</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (noun) a distinctive odor that is offensively unpleasant
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/fetor">fetor</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/foetor">foetor</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/malodor">malodor</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/malodour">malodour</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/mephitis">mephitis</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/reek">reek</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/stench">stench</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) be extremely bad in quality or in one's performance
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  This term paper stinks!               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) smell badly and offensively
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/reek">reek</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  The building reeks of smoke               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>stint</h2>
+      <p><strong>Short Definition</strong> : supply; allotted amount of work; assigned portion of work; limitation; Ex. two-year stint in the army; Ex. without stint</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (noun) an unbroken period of time during which you do something
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/stretch">stretch</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  there were stretches of boredom               </li>
+                              <li>
+                  he did a stretch in the federal penitentiary               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (noun) smallest American sandpiper
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/erolia minutilla">erolia minutilla</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/least sandpiper">least sandpiper</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (noun) an individual's prescribed share of work
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  her stint as a lifeguard exhausted her               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) subsist on a meager allowance
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/scrimp">scrimp</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/skimp">skimp</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  scratch and scrimp               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) supply sparingly and with restricted quantities
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/scant">scant</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/skimp">skimp</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  sting with the allowance               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for stint</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   'stin't is moderately 'stin'gy 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               22 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by dgsenthilkumar
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   STUNT means to LIMIT growth. STINT means to LIMIT supply. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               13 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by dshefman
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   
+stint ..sounds like stunt....and all stunt are learned when u spent SOME FIXED TIME TO LEARN THE INTRICACIES OF YOUR TASK . 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               6 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by preetisoni2411
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   stint~stunt:In bollywood all those who perform the stunt instead of the protagonists have a LIMITED role,A FIXED AMOUNT OF TIME and ROLE ! This also means thrifty - so these stunt doers get a very less salary so they have to be .. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by khushi5
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   in order to paint my Shoe the perfect TINT i must limit the amount of time my finger presses down on the spray paint can. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by maha4
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   S+tin+T: Survive on TIN meagre Things 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by tenzingocha
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   stint=-= s + tint , someone expense tint amount of money is stingy. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by nasri
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   st+int in 'c' launguage we declare integers individually seperated by',' 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by prudhvidepa
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   ST (State Transport vehicle)came IN for Testing (obviously for a certain period of time) 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by rajasbodas
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>stipend</h2>
+      <p><strong>Short Definition</strong> : pay for services</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (noun) a sum of money allotted on a regular basis; usually for some specific purpose
+         
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for stipend</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Stipend: rhymes with stri-fund. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               3 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by karthickv2006
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   imagine sum1 paying money to a prostitute to STRIP on a regular basis.. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by ashtan007
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   sti-sPEND, to spend 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by xxjennyjeonxx
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>stipple</h2>
+      <p><strong>Short Definition</strong> : paint or draw with dots or short strokes</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (verb) engrave by means of dots and flicks
+         
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) make by small short touches that together produce an even or softly graded shadow, as in paint or ink
+         
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) apply (paint) in small dots or strokes
+         
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) produce a mottled effect
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/speckle">speckle</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  The sunlight stippled the trees               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for stipple</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   staple means to punch holes. stipple means to put dots.
+ 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               57 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by garrulous
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   [do not intend to hurt, but this is how i remeberd, see if it helps you too]
+rhymes with nipple...which itself can be considered dot over boob.And painting a boob....hence paint or draw with dots  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               5 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by rockystar
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   stipple - to paint with the tip of the brush , to make strips/stripes or strokes 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by shalnew
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   staple = stipple; same means to make a dot point. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by shaktipada
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>stipulate</h2>
+      <p><strong>Short Definition</strong> : state as a necessary condition (of an agreement); make express conditions; specify; Ex. He stipulated payment in advance</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (verb) specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/condition">condition</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/qualify">qualify</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/specify">specify</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  The will stipulates that she can live in the house for the rest of her life               </li>
+                              <li>
+                  The contract stipulates the dates of the payments               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) give a guarantee or promise of
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  They stipulated to release all the prisoners               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) make an oral contract or agreement in the verbal form of question and answer that is necessary to give it legal force
+         
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for stipulate</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   staple+it-- Staple the documents, so that it GUARANTEES that they stay together permanently! 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               20 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by ashleyswift
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   stipules are plant parts present at the base of leaf. additional leaves present along with leaves. similarly STIPULATE is an condition (AGREEMENT) present in the MAIN AGREEMENT. stipulate = agreement in an agreement 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               7 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by arulmozhi
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   stipulate=steep+late
+
+
+imagine that you are going for a meeting where you are going to do some verbal agreement with the party but because of steep slope of the route you couldn't reach in time(reached late) at the desired place.. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               6 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by aniruddha_chaudhari
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   we sometimes need to complete work in stipulated time. It means " specified" time. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               3 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by enigmatic_lucifer
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Stipulate-(STIP-U-LATE) suppose a man named STIP had made verbal agreement to meet you but he comes late then you say him(STIP-U-LATE) 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by vishnu pandey
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   i will only stip [strip] you late if we have both expressed our conditions clearly. [yay for consent!]  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by maha4
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   stipul"stating" 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by blackjur
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+    
+
+<div class="pagination">
+    <ul>
+                 <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/A">A</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/B">B</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/C">C</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D">D</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/E">E</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/F">F</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/G">G</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H">H</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I">I</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/J">J</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/K">K</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/L">L</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/M">M</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N">N</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/O">O</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/P">P</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Q">Q</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/R">R</a></li>
+      <li class="active"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S">S</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/T">T</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/U">U</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/V">V</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/W">W</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/X">X</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Y">Y</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Z">Z</a></li>
+
+</ul>
+</div>
+
+   <div class="pagination">
+		<ul>
+			<li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=53">&laquo;</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=1">1</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=2">2</a></li><li class="disabled"><a href="#">...</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=51">51</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=52">52</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=53">53</a></li><li class="active"><a href="#">54</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=55">55</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=56">56</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=57">57</a></li><li class="disabled"><a href="#">...</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=74">74</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=75">75</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S?page=55">&raquo;</a></li>		</ul>
+	</div>      </div>
+   </div>
+
+</div>
+<div class="span3">
+   <div class="box margin-25t bt-5px b-shadow clearfix" style="text-align:center;"> 
+      <div style="border-top-color:#3B5998;" class="colored-border"></div>
+
+      <div class="box-title">
+         <h2>
+            Love us on FB !
+         </h2>
+      </div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=577208685630704";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+         
+      <div class="facebook-box" style="margin:0 -10px;">
+         <div class="fb-like-box" data-href="https://www.facebook.com/mnemonicdictionary" data-border-color="#fff"  data-show-faces="true"  data-stream="false" data-header="true"></div>
+      </div><!-- facebook-box -->
+   </div>
+   <div class="row-fluid margin-25t" style="text-align:center;">
+                  <script type="text/javascript"><!--
+google_ad_client = "ca-pub-1982458980722225";
+/* 160x600, created 6/7/08 */
+google_ad_slot = "7835460286";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+         
+      </div>
+</div>
+</div>
+
+
+            <!-- ./ content -->
+         </div>
+
+
+ 
+<hr />
+         <!-- Footer -->
+         <footer style="background-color:#4C4C4C">
+            <div style="width:50%;text-align:left;float:left;">© Mnemonic Dictionary 2013</div> <div style="width:40%;float:right;text-align:right;">A product of <a href="http://opencubicles.com">OpenCubicles Technologies Pvt Ltd</a></div>
+         </footer>
+         <!-- ./ footer -->
+
+      </div>
+      <!-- Javascripts
+      ================================================== -->
+      <script src="http://www.mnemonicdictionary.com/assets/js/jquery/jquery-1.9.1.min.js"></script>
+      <script src="http://www.mnemonicdictionary.com/assets/js/bootstrap/bootstrap.min.js"></script>
+      <script type="text/javascript">
+
+         var _gaq = _gaq || [];
+         _gaq.push(['_setAccount', 'UA-4638038-1']);
+         _gaq.push(['_trackPageview']);
+
+         (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+         })();
+
+      </script>
+      <script>
+  $(document).ready(function () {
+   $('#word').focus();
+ 
+  
+});
+  </script>
+   </body>
+</html>

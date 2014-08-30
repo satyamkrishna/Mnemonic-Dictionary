@@ -1,0 +1,1771 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>    
+      <meta charset="utf-8" />
+      <title>
+                           Mnemonic Dictionary - Fun and easy way to build your vocabulary!
+          
+               </title>
+
+      <meta name="author" content="OpenCubicles" />
+            <meta name='description' content='MnemonicDictionary.com - Fun and easy way to build your vocabulary using Mnemonics, Pictures, Visual, Etymology, Usage, word games' >
+      <meta name='keywords' content='word games, word power, word power made easy, mnemonic, mnemonics, dictionary, gre words, gre dictionary, vocabulary, word list' >
+         
+
+    
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+      <link rel='stylesheet' id='abel_google-fonts-css'  href='http://fonts.googleapis.com/css?family=Abel&#038;ver=3.5.1' type='text/css' media='screen' />
+      <link href="http://www.mnemonicdictionary.com/assets/css/bootstrap.min.css" rel="stylesheet">
+      <link rel="stylesheet" href="http://www.mnemonicdictionary.com/assets/css/font-awesome.min.css">
+      <link href="http://www.mnemonicdictionary.com/assets/css/style.css?time=cc" rel="stylesheet">
+     
+      <!--[if IE 7]>
+      <link rel="stylesheet" href="http://www.mnemonicdictionary.com/assets/css/font-awesome-ie7.min.css">
+      <![endif]-->
+
+ 
+      <style>
+            
+
+         @media (max-width: 980px) {
+            /* Enable use of floated navbar text */
+            .navbar-text.pull-right {
+               float: none;
+               padding-left: 5px;
+               padding-right: 5px;
+            }
+         }
+                   
+         .alert {
+            margin-top: 30px;
+            text-align: center;
+         }
+               </style>
+      <link href="http://www.mnemonicdictionary.com/assets/css/bootstrap-responsive.min.css" rel="stylesheet">
+      <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+      <!--[if lt IE 9]>
+         <script src="http://www.mnemonicdictionary.com/assets/js/html5shiv.js"></script>
+      <![endif]-->
+
+      <!-- Favicons
+      ================================================== -->
+      <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-144-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-72-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" href="http://www.mnemonicdictionary.com/assets/ico/apple-touch-icon-57-precomposed.png">
+      <link rel="shortcut icon" href="http://www.mnemonicdictionary.com/assets/ico/favicon.ico">
+   </head>
+
+  <body class="main-body-class">
+
+  <div class="navbar navbar-inverse navbar-fixed-top" id="main-nav">
+  <a class="brand" href="http://www.mnemonicdictionary.com" style="z-index: 2035;position:absolute;left:15px;"><img width="210px" src="http://www.mnemonicdictionary.com/assets/img/logo2.png" /></a>
+         <div class="navbar-inner" id="main-nav-inner">
+            <div class="container-fluid">
+               <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+               </button>
+               <a class="brand" href="http://www.mnemonicdictionary.com" style="visibility:hidden">Mnemonic Dictionary</a>
+               <div class="nav-collapse collapse">
+                  <ul class="nav pull-right">
+                                          <li ><a href="http://www.mnemonicdictionary.com/account/login">Login</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/account/register">Register</a></li>
+                     
+                  </ul>
+                  <ul class="nav">
+
+                     <li  style="padding-left:20px"><a href="http://www.mnemonicdictionary.com"><i class="icon-home icon-white"></i> Home</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist"><i class="icon-th-list"></i>WordLists</a></li>
+                     <li ><a href="http://www.mnemonicdictionary.com/about-us"><i class="icon-file icon-white"></i> About us</a></li>
+ <li ><a href="http://www.mnemonicdictionary.com/contactus"><i class="icon-envelope"></i></i> Contact us</a></li>
+
+                  </ul>
+               </div><!--/.nav-collapse -->
+            </div>
+         </div>
+      </div>   
+    
+
+      <!-- Notifications -->
+            <!-- ./ notifications -->
+
+
+     <div class="container-fluid" id="main-content" style="margin:auto;margin-top:25px;">
+         <div class="row-fluid">
+            <!-- Content -->
+             <div class="row-fluid">
+<div class="span12" style="margin-top:35px;">
+  &nbsp;
+</div> 
+</div>
+ <div class="row-fluid">
+<div class="span3">  
+      <div class="box margin-25t bt-5px b-shadow clearfix" > 
+      <div style="border-top-color:#619cd7;" class="colored-border"></div>
+
+      <div class="box-title">
+         <h2>
+            Suggested Wordlists
+         </h2>
+      </div>
+
+      <ul class="box-popular-list"> 
+          
+         <li class="clearfix"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist">GREwordlist</a></li>
+        <li class="clearfix"><a href="http://www.mnemonicdictionary.com/wordlist/WordOfTheDay">WordOfTheDay</a></li>
+   
+      </ul>
+
+   </div>
+      
+   
+        <div class="row-fluid margin-25t" style="text-align:center;" id="gad-left;">
+                  <script type="text/javascript"><!--
+          var width = window.innerWidth 
+        || document.documentElement.clientWidth 
+        || document.body.clientWidth;
+        if (width > 768) {
+google_ad_client = "ca-pub-1982458980722225";
+/* 160x600, created 6/7/08 */
+google_ad_slot = "5280598700";
+google_ad_width = 160;
+google_ad_height = 600;
+}
+else {
+
+}
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+         
+      </div>
+</div>
+<div class="span6">
+
+   <div class="box margin-25t bt-5px b-shadow clearfix" > 
+
+
+      <div class="box-title middle-box-title">
+         <span class="middle-title" style="background-color:#DB6409;">WordList</span>
+      </div>
+      <div id="home-middle-content">
+         <h1 class="middle-title-word"> <h1>GREwordlist</h1></h1>
+           <p>This wordlist is generally used by students preparing for GRE.</p>
+              <div class="pagination">
+		<ul>
+			<li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=44">&laquo;</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=1">1</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=2">2</a></li><li class="disabled"><a href="#">...</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=42">42</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=43">43</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=44">44</a></li><li class="active"><a href="#">45</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=46">46</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=47">47</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=48">48</a></li><li class="disabled"><a href="#">...</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=55">55</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=56">56</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=46">&raquo;</a></li>		</ul>
+	</div>
+              <div class="pagination">
+    <ul>
+                   <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/A">A</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/B">B</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/C">C</a></li>
+      <li class="active"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D">D</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/E">E</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/F">F</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/G">G</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H">H</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I">I</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/J">J</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/K">K</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/L">L</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/M">M</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N">N</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/O">O</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/P">P</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Q">Q</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/R">R</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S">S</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/T">T</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/U">U</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/V">V</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/W">W</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/X">X</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Y">Y</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Z">Z</a></li>
+
+</ul>
+</div>
+   <form method="get">
+              <div class="input-append">
+                 <span class="add-on">Page No.</span>
+  <input style="width:50px;" id="appendedInputButton" type="text" name="page">
+  <button class="btn" type="submit">Go!</button>
+</div></form>
+          
+
+
+   <div class="row-fluid">
+      <h2>divest</h2>
+      <p><strong>Short Definition</strong> : strip (as of clothes); deprive (as of rights); dispossess; N. divestiture(divestment)</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (verb) take away possessions from someone
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/deprive">deprive</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/strip">strip</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  The Nazis stripped the Jews of all their assets               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) deprive of status or authority
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/disinvest">disinvest</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  he was divested of his rights and his title               </li>
+                              <li>
+                  They disinvested themselves of their rights               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) reduce or dispose of; cease to hold (an investment)
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/disinvest">disinvest</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  The company decided to divest               </li>
+                              <li>
+                  the board of trustees divested $20 million in real estate property               </li>
+                              <li>
+                  There was pressure on the university to disinvest in South Africa               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) remove (someone's or one's own) clothes
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/disinvest">disinvest</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/strip">strip</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/undress">undress</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  The nurse quickly undressed the accident victim               </li>
+                              <li>
+                  She divested herself of her outdoor clothes               </li>
+                              <li>
+                  He disinvested himself of his garments               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for divest</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   opposite to invest; di + vest; vest means an inner garment; divest is to remove it. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               65 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Administrator
+               
+                              <img src="http://graph.facebook.com/716836720/picture" height="23px" />
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   di + vest; (A vest is a type of collarless sleeveless upper-body garment. ); divest is to remove it.
+ 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               17 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by billa2009
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   to see the vest's one need to strip the clothes..;) 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by extrovert
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   DIVEST can be considered as the short form of DIsinVEST,meaning to  STRIP 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by imajeeth
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Divest: To deprive someone of something have quite similar meaning to 'Devastating':Causing extensive destruction or ruining 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by bugmenot
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   divest means not invest, i.e out of something. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by shaktipada
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>divine</h2>
+      <p><strong>Short Definition</strong> : perceive intuitively (by or as if by magic); foresee the future; foretell; dowse; ADJ. N. divination</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (noun) terms referring to the Judeo-Christian God
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/almighty">almighty</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/creator">creator</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/god almighty">god almighty</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/godhead">godhead</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/jehovah">jehovah</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/lord">lord</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/maker">maker</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (noun) a clergyman or other person in religious orders
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/churchman">churchman</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/cleric">cleric</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/ecclesiastic">ecclesiastic</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) perceive intuitively or through some inexplicable perceptive powers
+         
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) search by divining, as if with a rod
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  He claimed he could divine underground water               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (adj) emanating from God
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/godly">godly</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  divine judgment               </li>
+                              <li>
+                  divine guidance               </li>
+                              <li>
+                  everything is black or white...satanic or godly               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (adj) resulting from divine providence
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/providential">providential</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  providential care               </li>
+                              <li>
+                  a providential visitation               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (adj) being or having the nature of a god
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/godlike">godlike</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  the custom of killing the divine king upon any serious failure of his...powers               </li>
+                              <li>
+                  the divine will               </li>
+                              <li>
+                  the divine capacity for love               </li>
+                              <li>
+                  'Tis wise to learn; 'tis God-like to create               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (adj) devoted to or in the service or worship of a deity
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  divine worship               </li>
+                              <li>
+                  divine liturgy               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (adj) appropriate to or befitting a god
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/godlike">godlike</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  the divine strength of Achilles               </li>
+                              <li>
+                  a man of godlike sagacity               </li>
+                              <li>
+                  man must play God for he has acquired certain godlike powers               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (adj) being of such surpassing excellence as to suggest inspiration by the gods
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/elysian">elysian</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/inspired">inspired</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  her pies were simply divine               </li>
+                              <li>
+                  the divine Shakespeare               </li>
+                              <li>
+                  an elysian meal               </li>
+                              <li>
+                  an inspired performance               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for divine</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   DI(The)+VULGE(Bulge)
+The BULGE in her tummy is now prominent, her pregnancy will get revealed to everyone. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by rohit.gem2611
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>divulge</h2>
+      <p><strong>Short Definition</strong> : reveal</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (verb) make known to the public information that was previously known only to a few people or that was meant to be kept a secret
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/break">break</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/bring out">bring out</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/disclose">disclose</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/discover">discover</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/expose">expose</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/give away">give away</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/let on">let on</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/let out">let out</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/reveal">reveal</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/unwrap">unwrap</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  The auction house would not disclose the price at which the van Gogh had sold               </li>
+                              <li>
+                  The actress won't reveal how old she is               </li>
+                              <li>
+                  bring out the truth               </li>
+                              <li>
+                  he broke the news to her               </li>
+                              <li>
+                  unwrap the evidence in the murder case               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for divulge</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   A girl asks u what is that bulge ( rhymes with vulge) in your pant ,then u reveal or show it 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               70 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by cyli
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   di + vulge close ti not to indulge...so reveal it 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               4 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by mon_m
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Divulge  = di(double) + vul(fault) + ge; double fault of ge is come out in its product. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by shaktipada
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Div (split) + Vault (secret box) - > reveal  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Mallik279
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Di (not) + vulge(vulgar_)..to prove that your relationship is not vulgar you will reaveal the relationship. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by sumi12344
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>docile</h2>
+      <p><strong>Short Definition</strong> : obedient; easily managed; submissive</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (adj) willing to be taught or led or supervised or directed
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  the docile masses of an enslaved nation               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (adj) ready and willing to be taught
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/teachable">teachable</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  docile pupils eager for instruction               </li>
+                              <li>
+                  teachable youngsters               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (adj) easily handled or managed
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/gentle">gentle</a>
+
+            
+             
+         </div>
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  a gentle old horse, docile and obedient               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for docile</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   making of dosa is easy to control and many people are interested in learning to make dosa 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               13 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by namaskar
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   docile (adj) = do + cile(+ently) == if sb is docile, he/she will do silently and therefore easily controllable.. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               5 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by 100_percentiler
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   DOCILE--> DOMESTIC + CHILD --> easy to control 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               3 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by pingu
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   DOC(sounds like dog)....hence docile is submissive as dogs are always loyal and obidient.... 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by nileshdive
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Docile = Ductile, In 10th class we studied Gold is Ductile(Docile) and Malleable material. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by amitsinghjiit
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   DOMicile: sounds like DOMestic
+ 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by shadip
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   DOSAile...when we say DOSA, we think of south India...the literacy in south India is very high because people are DOCILE i.e people are always ready to learn and accept new things........  
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by nileshdive
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   DOCILE=DOCUMENT + FILE : Document and file should be kept in such a way that they are easy to control and manage.... 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Ashishbaldwa
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Doc + File >>> when documents are arranged properly in a file, it can be easily handled and managed... 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by RajeshBorkar
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   docile contains 'doc' as in doctor; You have to be docile (easily managed or handled) in front of your doctor. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Administrator
+               
+                              <img src="http://graph.facebook.com/716836720/picture" height="23px" />
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   doc( someone who follows manual or document for everything) will do whatever is explained..so he is easily manageable. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Mallik279
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>docket</h2>
+      <p><strong>Short Definition</strong> : program as for trial; book where such entries are made; list of things to be done; agenda; label fixed to a package listing contents or directions; V: describe in a docket</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (noun) (law) the calendar of a court; the list of cases to be tried or a summary of the court's activities
+         
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (noun) a temporally organized plan for matters to be attended to
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/agenda">agenda</a>
+
+                        ,
+            
+                        <a href="http://www.mnemonicdictionary.com/word/schedule">schedule</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) place on the docket for legal action
+         
+          
+
+                 
+         <div style="padding-top: 10px;"><u>Example Sentence</u> <br />
+            <ul>
+                              <li>
+                  Only 5 of the 120 cases docketed were tried               </li>
+                           </ul>
+         </div>
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (verb) make a summary or abstract of a legal document and inscribe it in a list
+         
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for docket</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   docket - rocket - a rocket launch involves many trial programs before the actual takeoff. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               35 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by bluehole
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   also rhymes like 'pocket'. Busy people keep their schedule/agenda for today's meetings in their pocket. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               13 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by gunjanshah
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   d(ummy)+rocket= a dummy or prototype used for testing before launch of the actual one 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               2 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by srikanth_mnaga
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   DOCKet...dock is d place where ships are stored and repaired..so a collection of ships...so collection of list of entries in a court and also....dock is the place where trials of ships is also done :) 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by vamsikrrish17
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Before you lock it (DOCKET) lets do TRAIL VERSIONs 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by nippi86
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>         docket(docker...means person who is accused of crime)docket ..soundslike advocate..and an advocate sets the PROGRAM AS FOR TRIAL IN THE COURT FOR HIS CLIENT. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by preetisoni2411
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Remember the movie,"The Bucket List"? Bucket rhymes with docket. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by shadip
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Doc(documents)+ket(kit: trial stuff) - something for trial 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Mallik279
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+   
+
+
+   <div class="row-fluid">
+      <h2>doctrinaire</h2>
+      <p><strong>Short Definition</strong> : unable to compromise about points of doctrine; dogmatic; unyielding; marked by inflexible attachment to a doctrine without regard to its practical difficulties</p>
+
+         
+      <div style="padding-bottom:0px;">
+         
+
+         <u>Definition</u><br />      
+         (noun) a stubborn person of arbitrary or arrogant opinions
+         
+                  <div style="padding-top:8px;">
+            <u>Synonyms</u> :           
+                        <a href="http://www.mnemonicdictionary.com/word/dogmatist">dogmatist</a>
+
+            
+             
+         </div>
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+         
+
+         <u>Definition</u><br />      
+         (adj) stubbornly insistent on theory without regard for practicality or suitability
+         
+          
+
+            
+         <hr style="margin-top:24px;margin-bottom:5px;"/>
+
+               </div>
+
+              
+      <div style="padding-top: 10px;"><u><strong>Mnemonics (Memory Aids) for doctrinaire</strong></u> <br /><br />
+
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Some Doctors are arrogant on their opinions when a junior suggest them. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               6 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by vivekharin
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   meaning of the word is seeking to impose a doctrine in all circumstances without regard to practical considerations...hence a person who tries to spread his DOCTRINE in AIR everytime is doctrinaire...... 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by nileshdive
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   Doctor+In+Air (one who     is not down to earth, doesn't accept others, can't compromise with highest belief that he believed in. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               1 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by Mallik279
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>   "DOCTRINE" in "AIR"...ie not following the doctrine. 
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by mantoshsarkar
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+                  <div class="row-fluid">
+            <div class="span9" style="float:left;">
+               <i class="icon-lightbulb"></i>    
+            </div>
+
+            <div class="span3" style="float:right;border-left:1px solid #E3E3E3;padding-left:20px;">
+               0 <i class="icon-thumbs-up"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0  <i class="icon-thumbs-down"></i> 
+
+
+                    
+               <br /> <br /><i class="icon-user"></i> by nileshdive
+               
+               
+               
+
+
+            </div>
+         </div>
+
+         <hr style="margin:5px;"/>
+         
+      </div>
+        
+
+
+      
+   </div><!--/row-->
+
+    
+
+<div class="pagination">
+    <ul>
+                 <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/A">A</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/B">B</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/C">C</a></li>
+      <li class="active"><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D">D</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/E">E</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/F">F</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/G">G</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/H">H</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/I">I</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/J">J</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/K">K</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/L">L</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/M">M</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/N">N</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/O">O</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/P">P</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Q">Q</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/R">R</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/S">S</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/T">T</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/U">U</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/V">V</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/W">W</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/X">X</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Y">Y</a></li>
+      <li ><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/Z">Z</a></li>
+
+</ul>
+</div>
+
+   <div class="pagination">
+		<ul>
+			<li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=44">&laquo;</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=1">1</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=2">2</a></li><li class="disabled"><a href="#">...</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=42">42</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=43">43</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=44">44</a></li><li class="active"><a href="#">45</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=46">46</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=47">47</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=48">48</a></li><li class="disabled"><a href="#">...</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=55">55</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=56">56</a></li><li><a href="http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/D?page=46">&raquo;</a></li>		</ul>
+	</div>      </div>
+   </div>
+
+</div>
+<div class="span3">
+   <div class="box margin-25t bt-5px b-shadow clearfix" style="text-align:center;"> 
+      <div style="border-top-color:#3B5998;" class="colored-border"></div>
+
+      <div class="box-title">
+         <h2>
+            Love us on FB !
+         </h2>
+      </div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=577208685630704";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+         
+      <div class="facebook-box" style="margin:0 -10px;">
+         <div class="fb-like-box" data-href="https://www.facebook.com/mnemonicdictionary" data-border-color="#fff"  data-show-faces="true"  data-stream="false" data-header="true"></div>
+      </div><!-- facebook-box -->
+   </div>
+   <div class="row-fluid margin-25t" style="text-align:center;">
+                  <script type="text/javascript"><!--
+google_ad_client = "ca-pub-1982458980722225";
+/* 160x600, created 6/7/08 */
+google_ad_slot = "7835460286";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+         
+      </div>
+</div>
+</div>
+
+
+            <!-- ./ content -->
+         </div>
+
+
+ 
+<hr />
+         <!-- Footer -->
+         <footer style="background-color:#4C4C4C">
+            <div style="width:50%;text-align:left;float:left;">© Mnemonic Dictionary 2013</div> <div style="width:40%;float:right;text-align:right;">A product of <a href="http://opencubicles.com">OpenCubicles Technologies Pvt Ltd</a></div>
+         </footer>
+         <!-- ./ footer -->
+
+      </div>
+      <!-- Javascripts
+      ================================================== -->
+      <script src="http://www.mnemonicdictionary.com/assets/js/jquery/jquery-1.9.1.min.js"></script>
+      <script src="http://www.mnemonicdictionary.com/assets/js/bootstrap/bootstrap.min.js"></script>
+      <script type="text/javascript">
+
+         var _gaq = _gaq || [];
+         _gaq.push(['_setAccount', 'UA-4638038-1']);
+         _gaq.push(['_trackPageview']);
+
+         (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+         })();
+
+      </script>
+      <script>
+  $(document).ready(function () {
+   $('#word').focus();
+ 
+  
+});
+  </script>
+   </body>
+</html>
