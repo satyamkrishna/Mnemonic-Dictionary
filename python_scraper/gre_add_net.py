@@ -20,7 +20,7 @@ def get_count(filehandle):
 
 count = 0      
 for alphabet in string.ascii_uppercase:
-      url = 'http://www.mnemonicdictionary.com/wordlist/GREwordlist/startingwith/' + alphabet
+      url = 'http://www.utopiadevelopers.com/gre/' + alphabet
       response = urllib2.urlopen(url)
       page_source = response.read()
       tot_count = get_count(page_source)
