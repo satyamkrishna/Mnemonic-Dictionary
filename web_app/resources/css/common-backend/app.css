@@ -1,0 +1,130 @@
+body
+{
+	background-color: rgb(229,229,229);
+}
+.content
+{
+	padding-top: 40px;
+}
+.name
+{
+	height: 45px;
+	width: 234px;
+}
+.header
+{
+	background-color: #111;
+	height: auto;
+}
+.header .top-bar
+{
+	margin-bottom: auto;
+	margin-top: auto;
+}
+.clear
+{
+	clear: both;
+}
+.right
+{
+}
+.user-image
+{
+	width: 30px;
+	height: 30px;
+	border-radius: 33px;
+	margin-right:7px;
+}
+.content
+{
+	min-height: 450px;
+	padding-bottom: 60px !important;
+}
+.footer
+{
+	width: 100%;
+	height: 125px;
+	background-color: #F5F5F5;
+	border-top: thin #CCCCCC solid;
+	padding-top: 20px;
+}
+.footer a
+{
+	font-size: 1.2em;
+	color: #535333;
+}
+
+select
+{
+	background-color: white;
+	font-family: inherit;
+	border: 1px solid #cccccc;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-ms-border-radius: 2px;
+	-o-border-radius: 2px;
+	border-radius: 2px;
+	-webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+	box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+	color: rgba(0, 0, 0, 0.75);
+	display: block;
+	font-size: 14px;
+	margin: 0 0 12px 0;
+	padding: 6px;
+	height: 32px;
+	width: 100%;
+	-webkit-transition: all 0.15s linear;
+	-moz-transition: all 0.15s linear;
+	-o-transition: all 0.15s linear;
+	transition: all 0.15s linear;
+}
+
+.edit-button
+{
+	width: 27px;
+	height: 27px;
+	background: url('../../images/misc/edit-sprite.png') 0px 0px;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	border: none;
+}
+
+.edit-button:hover
+{
+	width: 27px;
+	height: 27px;
+	background: url('../../images/misc/edit-sprite.png') 0px -27px;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	border: none;
+}
+
+.delete-button
+{
+	width: 27px;
+	height: 27px;
+	background: url('../../images/misc/delete-sprite.png') 0px 0px;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	border: none;
+}
+
+.delete-button:hover
+{
+	width: 27px;
+	height: 27px;
+	background: url('../../images/misc/delete-sprite.png') 0px -27px;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	border: none;
+}
+
+@media only screen and (min-width: 768px)
+{
+	.large-5-half 
+	{
+		position: relative;
+		width: 48.4%;
+	}
+}
