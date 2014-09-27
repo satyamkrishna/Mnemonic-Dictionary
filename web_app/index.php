@@ -104,7 +104,7 @@
                     <?php echo $fbLoginButton; ?>
                 </div>
                 <div class="large-4 small-6 columns">
-                    <?php $gplus->getButton(); ?>
+                    <?php //$gplus->getButton(); ?>
                 </div>
                 <div class="large-2 columns">
 

@@ -60,7 +60,7 @@ if(isset($_POST['authKey'],$_POST['deviceID'],$_POST['fav'],$_POST['history'],$_
                 $data['fav'] = array();
                 $data['ignore'] = array();
                 $data['history'] = array();
-                
+                /*
                 $result = $db->ud_whereQuery('ud_user_fav',array('wordID'),array('userID'=>$user['userID']));
                 $fav= $db->ud_mysql_fetch_assoc_all($result);
                 $fav_array = array();
@@ -84,6 +84,7 @@ if(isset($_POST['authKey'],$_POST['deviceID'],$_POST['fav'],$_POST['history'],$_
                     array_push($ignore_array,$value['wordID']);
                 }
                 $data['ignore'] = $ignore_array;
+                */
             }
         }
         echo json_encode($data);
