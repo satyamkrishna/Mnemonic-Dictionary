@@ -1,0 +1,20 @@
+.card
+{
+	background-color: rgb(245, 245, 245);
+	border-bottom-color: rgb(216, 216, 216);
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-color: rgb(216, 216, 216);
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: rgb(216, 216, 216);
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-color: rgb(216, 216, 216);
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-top-style: solid;
+	border-top-width: 1px;
+}

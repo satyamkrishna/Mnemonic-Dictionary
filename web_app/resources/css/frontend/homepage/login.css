@@ -1,0 +1,10 @@
+﻿.login-box {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #fff;
+    padding: 30px;
+}
+
+#gplus-button {
+    cursor:pointer;
+}

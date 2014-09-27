@@ -1,0 +1,91 @@
+.card
+{
+	background-color: rgb(245, 245, 245);
+	border-bottom-color: rgb(216, 216, 216);
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-color: rgb(216, 216, 216);
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: rgb(216, 216, 216);
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-color: rgb(216, 216, 216);
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-top-style: solid;
+	border-top-width: 1px;
+}
+
+.card-columns
+{
+	padding-right: 50px!important;
+}
+
+.definition
+{
+	margin:15px 0px 10px 0px;
+	color: #4d4d4d;
+	cursor: pointer;
+	display: block;
+	font-weight: 500;
+	margin-bottom: 0.1875em;
+	border-bottom: 1px;
+}
+
+.definition label
+{
+	margin-top: 10px;
+}
+
+.definition ul
+{
+	margin-left: 30px;
+}
+
+.mnemonics ul
+{
+	margin-left: 30px;
+}
+.mnemonics li
+{
+	margin-top: 10px;
+}
+
+.link-clone
+{
+	color: rgb(39, 149, 182);
+}
+
+.star-select,.star-unselect
+{
+	width : 17px;
+	height: 17px;
+	margin: -6px 0px 0px 1px;
+}
+
+.ignore
+{
+	margin:10px 8px 0px 0px;
+	opacity: 0.6;
+}
+
+.ignore:hover
+{
+	opacity: 0.9;
+}
+
+.close
+{
+    height:16px;
+    width:16px;
+    opacity:0.5;
+    float:right;
+}
+
+.close:hover
+{
+    opacity:1;
+}
