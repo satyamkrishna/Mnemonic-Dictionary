@@ -117,10 +117,26 @@ if (!ud_user_loggedin()) {
                                             <li><a href="user_history.php">MY LOGIN HISTORY</a></li>
                                             <li class="divider"></li>
                                             <li><a href="login_history.php">USERS LOGIN HISTORY</a></li>
-                                            <li class="divider"></li>
                                         <?php
                                         }
                                         ?>
+                                        <?php
+                                        if (Clearance::checkClearance(Clearance::$SUPER_ADMIN)) {
+                                            ?>
+                                            <li class="divider"></li>
+                                            <li class="has-dropdown"><a href="#">JSON</a>
+                                                <ul class="dropdown">
+                                                    <li><a href="json.php">COMPLETE</a></li>
+                                                    <li class="divider"></li>
+                                                    <li><a href="json_test.php">TEST</a></li>
+                                                    <li class="divider"></li>
+                                                    <li><a href="json_alphabet.php">ALPHABET</a></li>
+                                                </ul>
+                                            </li>
+                                        <?php
+                                        }
+                                        ?>
+                                        <li class="divider"></li>
                                         <li><a href="high_frequency.php">HIGH FREQUENCY WORDS</a></li>
                                         <?php
                                         if (Clearance::checkClearance(Clearance::$MODULE_ANDROID)) {

@@ -4,8 +4,72 @@ require 'include/dbhelper.inc.php';
 require 'include/loggedin.php';
 require 'include/user_clearance.inc.php';
 
-Clearance::redirectIfNotEnoughClearance(Clearance::$MODULE_ANDROID);
+Clearance::redirectIfNotEnoughClearance(Clearance::$SUPER_ADMIN);
+
+$db = new dbHelper;
+$db -> ud_connectToDB();
+
+$myFile = 'upload/data.txt';
+$fh = fopen($myFile, 'w');	
+
+$result = $db -> ud_getQuery("SELECT * FROM `word_list`");
+$word_list = $db -> ud_mysql_fetch_assoc_all($result);
+$json_array = array();
+$message = '';
+//sizeof($word_list)
+for($ind=0;$ind<1;$ind++)
+{
+	$wordID = $word_list[$ind]['wordID'];
+	$message = $message.$word_list[$ind]['word'].'<br>';
+	$wordObj = array();
+	$result = $db -> ud_whereQuery('mnemonics_word_list', NULL, array('wordID' => $wordID));
+	$mnemonics = $db -> ud_mysql_fetch_assoc_all($result);
+	$mnemonics_arr = array();
+	for ($i = 0; $i < sizeof($mnemonics); $i++) 
+	{
+		$mnemonics_arr[$i] = $mnemonics[$i]['mnemonic'];
+	}
+	
+	$result = $db -> ud_whereQuery('definition_word_list', NULL, array('wordID' => $wordID));
+	$defintion = $db -> ud_mysql_fetch_assoc_all($result);
+	$defintion_arr = array();
+
+	for ($i = 0; $i < sizeof($defintion); $i++) 
+	{
+		$result = $db -> ud_whereQuery('synonym_word_list', NULL, array('definitionID' => $defintion[$i]['definitionID']));
+		$synonym = $db -> ud_mysql_fetch_assoc_all($result);
+		$synonym_arr = array();
+
+		for ($j = 0; $j < sizeof($synonym); $j++) 
+		{
+			$synonym_arr[$j] = $synonym[$j]['synonym'];
+		}
+
+		$result = $db -> ud_whereQuery('sentence_word_list', NULL, array('definitionID' => $defintion[$i]['definitionID']));
+		$sent = $db -> ud_mysql_fetch_assoc_all($result);
+		$sent_arr = array();
+
+		for ($j = 0; $j < sizeof($sent); $j++) 
+		{
+			$sent_arr[$j] = $sent[$j]['sentence'];
+		}
+
+		$defintion_arr[$i] = array('def' => $defintion[$i]['definition'], 'syn' => $synonym_arr, 'sent' => $sent_arr);
+	}
+	
+	$wordObj['word'] = $word_list[$ind]['word'];
+	$wordObj['wordID'] = $wordID;
+	$wordObj['definition_short'] = $word_list[$ind]['definition_short'];
+	$wordObj['mnemonics_arr'] = $mnemonics_arr;
+	$wordObj['defintion_arr'] = $defintion_arr;
+	$json_array[$ind] = $wordObj;
+
+}
+$json_data = json_encode($json_array);
+fwrite($fh,$json_data);
+fclose($fh);
 ?>
+
 <!DOCTYPE html>
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]>
@@ -21,31 +85,28 @@ Clearance::redirectIfNotEnoughClearance(Clearance::$MODULE_ANDROID);
 <!-->
 <html class="no-js" lang="en">
 
-	<!--<![endif]-->
+<!--<![endif]-->
 <html>
 
 <head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<title>JSON - GRE</title>
-<!-- Metadata -->
-<meta content="" name="description" />
-<meta content="" name="keywords" />
-<meta content="" name="author" />
-<?php require 'include/foundation.php'; ?>
-<?php require 'include/datatable.php';?>
-<!-- CSS Styles -->
-<link rel="stylesheet" href="resources/css/common-backend/card.css" />
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <title>Adminpanel - GRE</title>
+    <!-- Metadata -->
+    <meta content="" name="description" />
+    <meta content="" name="keywords" />
+    <meta content="" name="author" />
+    <?php require 'include/foundation.php'; ?>
+    <?php require 'include/datatable.php';?>
+    <!-- CSS Styles -->
+    <link rel="stylesheet" href="resources/css/common-backend/card.css" />
 </head>
 <?php require 'include/header.php';?>
 <div class="row content">
-	<div class="large-12 columns"  id="list">
-		
-	</div>
+    <div class="large-12 columns">
+        JSON
+    </div>
 </div>
-<?php
-require 'include/footer.php';
-?>
-<script src="resources/js/create.js"></script>
+<?php require 'include/footer.php';?>
 </body>
 </html>
 <![endif]-->
