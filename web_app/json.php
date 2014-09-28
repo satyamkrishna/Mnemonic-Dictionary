@@ -16,8 +16,8 @@ $result = $db -> ud_getQuery("SELECT * FROM `word_list`");
 $word_list = $db -> ud_mysql_fetch_assoc_all($result);
 $json_array = array();
 $message = '';
-//sizeof($word_list)
-for($ind=0;$ind<1;$ind++)
+
+for($ind=0;$ind<sizeof($word_list);$ind++)
 {
 	$wordID = $word_list[$ind]['wordID'];
 	$message = $message.$word_list[$ind]['word'].'<br>';
