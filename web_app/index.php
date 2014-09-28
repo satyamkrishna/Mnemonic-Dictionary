@@ -10,6 +10,17 @@
 
     $gplus = new Gplus();
 
+    $form_url = 'index.php';
+
+    if(isset($_GET['redirect_uri']))
+    {
+        if($_GET['redirect_uri']!='')
+        {
+            $form_url .= '?redirect_uri='.$_GET['redirect_uri'];
+        }
+    }
+
+
 	if(isset($_POST['email'],$_POST['password']))
 	{
 		if(!empty($_POST['email']) &&!empty($_POST['password']))
@@ -33,9 +44,17 @@
 	
 	if(isset($_SESSION['userID']) && !empty($_SESSION['userID']))
 	{
-		header('location:dashboard.php');
+        $location = 'location:dashboard.php';
+
+        if(isset($_GET['redirect_uri']))
+        {
+            if($_GET['redirect_uri']!='')
+            {
+                $location = 'location:'.$_GET['redirect_uri'];
+            }
+        }
+		header($location);
 	}
-	
 ?>
 <!DOCTYPE html>
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
@@ -69,7 +88,7 @@
 
 <body>
 <?php require 'include/header.php'; ?>
-<form action="index.php" method="post" style="margin-top: 100px; margin-bottom: 110px;">
+<form action="<?php echo $form_url; ?>" method="post" style="margin-top: 100px; margin-bottom: 110px;">
 	<div class="row">
 		<div class="large-7 small-11 columns login-box large-centered small-centered">
 			<h3 id="title-login">Log In</h3>
