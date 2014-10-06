@@ -12,14 +12,14 @@ $data['auth']  = "";
 $data['email'] = "";
 $error = new Error();
 
-if(isset($_GET['auth'],$_GET['type']))
+if(isset($_GET['access_token'],$_GET['social_type']))
 {
-    if(!empty($_GET['auth']) &&!empty($_GET['type']))
+    if(!empty($_GET['access_token']) &&!empty($_GET['social_type']))
     {
-        switch($_GET['type'])
+        switch($_GET['social_type'])
         {
             case 'FB':
-                $response = @file_get_contents('https://graph.facebook.com/me?fields=id,name,email&access_token='.$_GET['auth']);
+                $response = @file_get_contents('https://graph.facebook.com/me?fields=id,name,email&access_token='.$_GET['access_token']);
                 if($response != false)
                 {
                     $fb_data       = json_decode($response,true);

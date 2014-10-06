@@ -11,11 +11,11 @@ $data['message'] = 'Not Enough Parameters';
 
 $error = new Error();
 
-if(isset($_GET['auth'],$_GET['gcm'],$_GET['deviceID']))
+if(isset($_GET['access_token'],$_GET['gcm'],$_GET['deviceID']))
 {
-	if(!empty($_GET['auth']) &&!empty($_GET['gcm']) &&!empty($_GET['deviceID']))
+	if(!empty($_GET['access_token']) &&!empty($_GET['gcm']) &&!empty($_GET['deviceID']))
 	{
-		$auth = htmlentities($_GET['auth']);
+		$auth = htmlentities($_GET['access_token']);
 		$gcm_id = htmlentities($_GET['gcm']);
         $deviceID = htmlentities($_GET['deviceID']);
 		
@@ -24,25 +24,30 @@ if(isset($_GET['auth'],$_GET['gcm'],$_GET['deviceID']))
 		
 		if( $db->ud_getRowCountResult($query)==0)
 		{
-			$data['message'] = 'Auth Key Not Associated with any user';
+			$data['message'] = 'Access Token Not Associated with any user';
 		}
 		else 
 		{
-			$result=$db->ud_whereQuery('ud_user_gcm',NULL,array('gcmID'=>$_GET['gcm']));
-			$gcm = $db->ud_mysql_fetch_assoc($result); 
-			
+			$result=$db->ud_whereQuery('ud_user_gcm',NULL,array('gcmID'=>$gcm_id));
+			$gcm = $db->ud_mysql_fetch_assoc($result);
+
 			if( $db->ud_getRowCountResult($result)==0)
 			{
 				$db->ud_updateQuery('ud_user',array('isGCM'=>1),array('authKey'=>$auth));
-				$db->ud_insertQuery('ud_user_gcm',array('userID'=>$user['userID'],'gcmID'=>$_GET['gcm'],'deviceID'=>$deviceID));
+				$db->ud_insertQuery('ud_user_gcm',array('userID'=>$user['userID'],'gcmID'=>$gcm_id,'deviceID'=>$deviceID));
 			}
 			else 
 			{
-				if($gcm['userID'] != $user['userID'])
+                if($gcm['userID'] == $user['userID'])
+                {
+                    $db->ud_updateQuery('ud_user',array('isGCM'=>1),array('authKey'=>$auth));
+                    $db->ud_updateQuery('ud_user_gcm',array('deviceID'=>$deviceID),array('userID'=>$user['userID'],'gcmID'=>$gcm_id));
+                }
+				else
 				{
 					$db->ud_updateQuery('ud_user',array('isGCM'=>1),array('authKey'=>$auth));
-					$db->ud_deleteQuery('ud_user_gcm',array('gcmID'=>$_GET['gcm']));
-					$db->ud_insertQuery('ud_user_gcm',array('userID'=>$user['userID'],'gcmID'=>$_GET['gcm'],'deviceID'=>$deviceID));
+					$db->ud_deleteQuery('ud_user_gcm',array('gcmID'=>$gcm_id));
+					$db->ud_insertQuery('ud_user_gcm',array('userID'=>$user['userID'],'gcmID'=>$gcm_id,'deviceID'=>$deviceID));
 				}
 			}
 			$data['register'] = 'success';

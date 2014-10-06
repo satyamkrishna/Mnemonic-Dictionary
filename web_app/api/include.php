@@ -7,6 +7,7 @@ require $include_dir.'auth.inc.php';
 require $include_dir.'gcm.inc.php';
 require $include_dir.'error.inc.php';
 require $include_dir.'user_reg.inc.php';
+require $include_dir.'user_clearance.inc.php';
 
 
 ?>

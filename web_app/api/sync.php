@@ -11,18 +11,18 @@ $error = new Error();
 $data = array();
 
 
-if(isset($_POST['authKey'],$_POST['deviceID'],$_POST['fav'],$_POST['history'],$_POST['ignore']))
+if(isset($_POST['access_token'],$_POST['deviceID'],$_POST['fav'],$_POST['history'],$_POST['ignore']))
 {
-    if(!empty($_POST['authKey']) &&!empty($_POST['fav']) &&!empty($_POST['history']) &&!empty($_POST['ignore'])&&!empty($_POST['deviceID']))
+    if(!empty($_POST['access_token']) &&!empty($_POST['fav']) &&!empty($_POST['history']) &&!empty($_POST['ignore'])&&!empty($_POST['deviceID']))
     {
 
         $fav = $_POST['fav'];
         $history = $_POST['history'];
         $ignore = $_POST['ignore'];
-        $auth = htmlentities($_POST['authKey']);
+        $access_token = htmlentities($_POST['access_token']);
         $deviceID = htmlentities($_POST['deviceID']);
 
-        $query=$db->ud_whereQuery('ud_user',NULL,array('authkey' => $auth));
+        $query=$db->ud_whereQuery('ud_user',NULL,array('authkey' => $access_token));
         if( $db->ud_getRowCountResult($query)==0)
         {
             $data['message'] = 'Auth Key Not Associated with any user';
@@ -34,11 +34,11 @@ if(isset($_POST['authKey'],$_POST['deviceID'],$_POST['fav'],$_POST['history'],$_
             $result = $db->ud_whereQuery('ud_user_gcm',null,array('userID'=>$user['userID'],'deviceID'=>$deviceID));
             if($db->ud_getRowCountResult($result)==0)
             {
-                $data['message'] = 'Auth Key Match,No Device Registered with this ID';
+                $data['message'] = 'Access Token Match,No Device Registered with this ID';
             }
             else
             {
-                $data['message'] = 'Auth Key Match';
+                $data['message'] = 'Access Token Match';
                 $gcm = $db->ud_mysql_fetch_assoc($result);
                 $deviceID = $gcm['id'];
 

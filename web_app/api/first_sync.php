@@ -9,20 +9,20 @@ $error = new Error();
 
 $data = array();
 
-if (isset($_GET['authKey']))
+if (isset($_GET['access_token']))
 {
-    if (!empty($_GET['authKey']))
+    if (!empty($_GET['access_token']))
     {
-        $auth = htmlentities($_GET['authKey']);
+        $auth = htmlentities($_GET['access_token']);
 
         $query = $db->ud_whereQuery('ud_user', NULL, array('authkey' => $auth));
         if ($db->ud_getRowCountResult($query) == 0)
         {
-            $data['message'] = 'Auth Key Not Associated with any user';
+            $data['message'] = 'Access Token Not Associated with any user';
         }
         else
         {
-            $data['message'] = 'Auth Key Match';
+            $data['message'] = 'Access Token Match';
             $user = $db->ud_mysql_fetch_assoc($query);
             $result = $db->ud_whereQuery('ud_user_fav', array('wordID'), array('userID' => $user['userID']));
             $fav = $db->ud_mysql_fetch_assoc_all($result);
