@@ -33,6 +33,14 @@ if (isset($_GET['access_token']))
                 {
                     $data_obj = array();
                     $data_obj['userID'] = $user['userID'];
+                    $data_obj['name'] = $user['name'];
+                    $data_obj['isFB'] = $user['isFB'];
+                    $data_obj['isG+'] = $user['isG+'];
+                    $data_obj['#login'] = check_null($user['log']);
+                    $data_obj['#favorite'] = check_null($user['fav']);
+                    $data_obj['#ignore'] = check_null($user['ig']);
+                    $data_obj['#recent'] = check_null($user['history']);
+                    $data_obj['#new_word'] = check_null($user['new_word']);
                     array_push($users,$data_obj);
                 }
 
@@ -53,5 +61,13 @@ if (isset($_GET['access_token']))
 else
 {
     $error->parameters_either_empty_or_not_provided();
+}
+
+function check_null($data)
+{
+    if($data==null)
+        return 0;
+    else
+        return $data+1-1;
 }
 ?>
