@@ -32,7 +32,7 @@ if(isset($_GET['access_token'],$_GET['social_type']))
                 echo json_encode($data);
                 break;
             case 'GPlus':
-                $response = @file_get_contents('https://www.googleapis.com/plus/v1/people/me?access_token='.$_GET['auth']);
+                $response = @file_get_contents('https://www.googleapis.com/plus/v1/people/me?access_token='.$_GET['access_token']);
                 if($response != false)
                 {
                     $gp_data       = json_decode($response,true);
